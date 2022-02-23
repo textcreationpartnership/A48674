@@ -1,0 +1,3050 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the names of all the proprietors in the Bank of England March 18. 1698. Note, those marked **** are capable, by their stock, of being chosen governour, deputy-governour, or directors: *** deputy-governour or directors: ** directors: * have a vote, and no person more than one vote. At the ensuing election to be made; of governour and deputy-governour, on Tuesday the 28th. and of directors on Friday the 31st day of this month. Together with an abstract of the by-law concerning elections, for the better direction of members in giving their votes.</title>
+            <title>Lists. 1698-03-18.</title>
+            <author>Bank of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48674</idno>
+            <idno type="STC">Wing L2463B</idno>
+            <idno type="STC">ESTC R221762</idno>
+            <idno type="EEBO-CITATION">99833022</idno>
+            <idno type="PROQUEST">99833022</idno>
+            <idno type="VID">37497</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48674)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37497)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2189:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the names of all the proprietors in the Bank of England March 18. 1698. Note, those marked **** are capable, by their stock, of being chosen governour, deputy-governour, or directors: *** deputy-governour or directors: ** directors: * have a vote, and no person more than one vote. At the ensuing election to be made; of governour and deputy-governour, on Tuesday the 28th. and of directors on Friday the 31st day of this month. Together with an abstract of the by-law concerning elections, for the better direction of members in giving their votes.</title>
+                  <title>Lists. 1698-03-18.</title>
+                  <author>Bank of England.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bank of England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37497:1" rendition="simple:additions"/>
+            <head>A LIST of the NAMES OF ALL THE PROPRIETORS IN THE BANK of ENGLAND.</head>
+            <opener>
+               <date>
+                  <hi>March</hi> 18. 1698.</date>
+            </opener>
+            <argument>
+               <p>Note, <hi>Thoſe Marked **** are Capable, by their Stock, of being Choſen</hi> Governour, Deputy-Governour, <hi>or</hi> Directors: *** Deputy-Governour <hi>or</hi> Directors: ** Directors: * <hi>Have a Vote, and no Perſon more than One Vote. At the enſuing Election to be made; of</hi> Governour <hi>and</hi> Deputy-Governour, <hi>on</hi> Tueſday <hi>the 28th. and of</hi> Directors <hi>on</hi> Friday <hi>the 31st Day of this Month. Together with an Abſtract of the</hi> By-Law <hi>concerning</hi> Elections, <hi>for the better Direction of Members in giving their</hi> Votes.</p>
+            </argument>
+            <div type="list">
+               <list>
+                  <head>A.</head>
+                  <item>**** SIR William Aſhhurſt</item>
+                  <item>**** Sir Thomas Abney</item>
+                  <item>*** M<hi rend="sup">r</hi> John Addis</item>
+                  <item>*** M<hi rend="sup">rs</hi> Mary Archer</item>
+                  <item>** Dame Mary Aſhe</item>
+                  <item>** George Arnold, <hi>Eſq; de<g ref="char:EOLhyphen"/>ceas'd</hi>
+                  </item>
+                  <item>** M<hi rend="sup">r</hi> Thomas Aleyn</item>
+                  <item>* <hi>Sir</hi> Matthew Andrews</item>
+                  <item>* <hi>Sir</hi> Edward Abney</item>
+                  <item>* Richard Adney, <hi>Eſq;</hi>
+                  </item>
+                  <item>* William Aſpin, <hi>Eſq;</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Paul Alleſtree</item>
+                  <item>* M<hi rend="sup">r</hi> Henry Acourt</item>
+                  <item>* M<hi rend="sup">r</hi> Mordecai Abbott</item>
+                  <item>* M<hi rend="sup">rs</hi> Dorothy Aſhhurſt</item>
+                  <item>* M<hi rend="sup">rs</hi> Jane Amonnet</item>
+                  <item>* M<hi rend="sup">rs</hi> Marie Aldegonde De Mande</item>
+                  <item>* M<hi rend="sup">r</hi> Robert Atwood</item>
+                  <item>* M<hi rend="sup">r</hi> William Adams</item>
+                  <item>* M<hi rend="sup">r</hi> Joſeph Aunger</item>
+                  <item>* M<hi rend="sup">r</hi> Robert Adams</item>
+                  <item>* M<hi rend="sup">r</hi> Roger Atlee</item>
+                  <item>* M<hi rend="sup">r</hi> Edward Anthony</item>
+                  <item>* M<hi rend="sup">r</hi> William Aglionby</item>
+                  <item>* M<hi rend="sup">r</hi> John Amler</item>
+                  <item>* M<hi rend="sup">r</hi> Henry Adderley</item>
+                  <item>* M<hi rend="sup">r</hi> Francis Aſty</item>
+                  <item>* M<hi rend="sup">r</hi> Ambroſe Aſty</item>
+                  <item>* M<hi rend="sup">r</hi> Robert Antrum</item>
+                  <item>* M<hi rend="sup">r</hi> John Ayres</item>
+                  <item>* M<hi rend="sup">r</hi> Alexander Alley</item>
+                  <item>
+                     <hi>Sir</hi> William Aſhhurſt <hi>in Truſt</hi>
+                  </item>
+                  <item>Dame Ann Andrews</item>
+                  <item>Peter Allix, <hi>D. D.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Chriſtopher Aſtley</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Andrews</item>
+                  <item>M<hi rend="sup">r</hi> William Addis</item>
+                  <item>M<hi rend="sup">r</hi> Louis Augier</item>
+                  <item>M<hi rend="sup">r</hi> James Augier</item>
+                  <item>M<hi rend="sup">r</hi> Andrew Adlam</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Alford</item>
+                  <item>M<hi rend="sup">r</hi> Henry Aylwey</item>
+                  <item>M<hi rend="sup">r</hi> William Ambroſe, <hi>dec.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> John Aldred</item>
+                  <item>M<hi rend="sup">r</hi> Louis Augier <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Albyn</item>
+                  <item>M<hi rend="sup">r</hi> George Andrews</item>
+                  <item>M<hi rend="sup">r</hi> Marmaduke Alford</item>
+                  <item>M<hi rend="sup">r</hi> William Arnald</item>
+                  <item>M<hi rend="sup">r</hi> Henry Aimé, <hi>and</hi> M<hi rend="sup">r</hi> Francis Verdier</item>
+                  <item>M<hi rend="sup">r</hi> Iſaac Aimé, <hi>dec.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Henry Alleine</item>
+                  <item>M<hi rend="sup">r</hi> Manuel de Almanza</item>
+                  <item>M<hi rend="sup">r</hi> Henry Alleine <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Henry Aimé</item>
+                  <item>M<hi rend="sup">r</hi> Stephen Aſhby.</item>
+                  <item>M<hi rend="sup">r</hi> Oliver Atkey</item>
+                  <item>M<hi rend="sup">r</hi> Richard Atkinſon, <hi>a Minor</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> William Arnold <hi>and</hi> M<hi rend="sup">r</hi> Anthony Viccary, <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Thomas Aſhby</item>
+                  <item>M<hi rend="sup">r</hi> John Andrews</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Arnold</item>
+                  <item>M<hi rend="sup">r</hi> Louis Augier <hi>in Truſt</hi>
+                  </item>
+                  <item>Ditto Augier <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> George Arundel</item>
+                  <item>M<hi rend="sup">r</hi> Charles Anthony</item>
+                  <item>M<hi rend="sup">r</hi> Richard Avery</item>
+               </list>
+               <list>
+                  <head>B</head>
+                  <item>**** HIS Grace, Charles Duke of <hi>Bolton</hi>
+                  </item>
+                  <item>**** <hi>The Honorable</hi> Hugh Buſ<g ref="char:EOLhyphen"/>cawen, <hi>Eſq;</hi>
+                  </item>
+                  <item>**** <hi>Sir</hi> James Bateman</item>
+                  <item>**** <hi>Sir</hi> William Brownlowe</item>
+                  <item>**** Brook Bridges, <hi>Eſq; Auditor</hi>
+                  </item>
+                  <item>**** John Bridges, <hi>Eſq;</hi>
+                  </item>
+                  <item>**** Robert Briſtow <hi>Jun. Eſq;</hi>
+                  </item>
+                  <item>**** M<hi rend="sup">r</hi> Joas Bateman</item>
+                  <item>**** M<hi rend="sup">r</hi> John Brand</item>
+                  <item>**** M<hi rend="sup">r</hi> Thomas Boucher</item>
+                  <item>**** M<hi rend="sup">r</hi> Moſes Barrow</item>
+                  <item>*** Peter Broughton, <hi>Eſq; and others in Truſt</hi>
+                  </item>
+                  <item>*** M<hi rend="sup">r</hi> Joſeph Brooksbanke</item>
+                  <item>*** M<hi rend="sup">r</hi> Benjamin Bromhead</item>
+                  <item>*** M<hi rend="sup">r</hi> Edward Barton</item>
+                  <item>*** M<hi rend="sup">r</hi> John Bull</item>
+                  <item>** Robert Bodington, <hi>Eſq;</hi>
+                  </item>
+                  <item>** Bartholomew Beale, <hi>Eſq;</hi>
+                  </item>
+                  <item>** Arthur Baron, <hi>Eſq;</hi>
+                  </item>
+                  <item>** John Bromley, <hi>Eſq;</hi>
+                  </item>
+                  <item>** M<hi rend="sup">r</hi> John Borrett</item>
+                  <item>** M<hi rend="sup">r</hi> Joſeph Bliſſett</item>
+                  <item>** M<hi rend="sup">r</hi> Samuel Bulteel</item>
+                  <item>** M<hi rend="sup">r</hi> Thomas Bedford <hi>dec.</hi>
+                  </item>
+                  <item>** M<hi rend="sup">r</hi> Simon Baxter</item>
+                  <item>** M<hi rend="sup">r</hi> Gibbons Bagnall</item>
+                  <item>* <hi>The Right Honorable</hi> John <hi>Earl of</hi> Bridgwater</item>
+                  <item>* <hi>The Right Honorable the Earl of</hi> Bradford</item>
+                  <item>* <hi>The Right Honorable</hi> Willi<g ref="char:EOLhyphen"/>am <hi>Lord</hi> Berkeley</item>
+                  <item>* <hi>The Right Honorable</hi> Jane <hi>Counteſs of</hi> Bridgewater</item>
+                  <item>* <hi>Sir</hi> John Bucknall</item>
+                  <item>* <hi>Sir</hi> Henry Belaſyſſe</item>
+                  <item>* Samuel Blithe, <hi>D. D.</hi>
+                  </item>
+                  <item>* Thomas Botterill, <hi>M. D.</hi>
+                  </item>
+                  <item>* Lilly Butler, <hi>M. A.</hi>
+                  </item>
+                  <item>* John Beaumont, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Loftus Brightwell, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Brook Bridges, <hi>of Kenſing<g ref="char:EOLhyphen"/>ton, Eſq;</hi>
+                  </item>
+                  <item>* Robert Briſtow, <hi>Sen. Eſq;</hi>
+                  </item>
+                  <item>* William Barneſly, <hi>Eſq;</hi>
+                  </item>
+                  <item>* William Bridgeman, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Thomas Batſon, <hi>Eſq;</hi>
+                  </item>
+                  <item>* William Bethell, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Chriſtopher Bale, <hi>Eſq;</hi>
+                  </item>
+                  <item>* John Blagrave, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Thomas Barrow, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Richard Le Bas, <hi>Eſq;</hi>
+                  </item>
+                  <item>* William Des Bouverie, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Stephen Beckingham, <hi>Eſq;</hi>
+                  </item>
+                  <item>* William Ball, <hi>Eſq;</hi>
+                  </item>
+                  <item>* William Bridges, <hi>Eſq;</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Robert Bird</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Bland</item>
+                  <item>* M<hi rend="sup">r</hi> John Ball</item>
+                  <item>* M<hi rend="sup">r</hi> John Blandford</item>
+                  <item>* M<hi rend="sup">r</hi> James Buſh</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Bendyſhe</item>
+                  <item>* M<hi rend="sup">r</hi> Robert Baker</item>
+                  <item>* M<hi rend="sup">r</hi> Abraham Brown</item>
+                  <item>* M<hi rend="sup">r</hi> John Brookes</item>
+                  <item>* M<hi rend="sup">r</hi> Robert Browne</item>
+                  <item>* M<hi rend="sup">rs</hi> Alice Baxter</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Barker</item>
+                  <item>* M<hi rend="sup">r</hi> John Bourges</item>
+                  <item>* <hi>Captain</hi> Hope for Bendall</item>
+                  <item>* M<hi rend="sup">r</hi> Benjamin Bradly</item>
+                  <item>* M<hi rend="sup">r</hi> William Baron</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Brearcliffe</item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Buttall</item>
+                  <item>* M<hi rend="sup">r</hi> Robert Benſon</item>
+                  <item>* M<hi rend="sup">r</hi> William Barnſley <hi>in Trust</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> William Blundell</item>
+                  <item>* <hi>Dame</hi> Dorothy Brownlowe</item>
+                  <item>* M<hi rend="sup">r</hi> John Bridge</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Bathurſt</item>
+                  <item>* M<hi rend="sup">r</hi> Francis Beyer</item>
+                  <item>* M<hi rend="sup">r</hi> John Billers</item>
+                  <item>* M<hi rend="sup">r</hi> Benjamin Burdett</item>
+                  <item>* M<hi rend="sup">r</hi> Tobias Bridge</item>
+                  <item>* M<hi rend="sup">r</hi> Edward Bellamy, <hi>dec.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> John Browne</item>
+                  <item>* M<hi rend="sup">r</hi> Robert Basket</item>
+                  <item>* M<hi rend="sup">r</hi> Shem Bridges</item>
+                  <item>* M<hi rend="sup">r</hi> Edmund Bayly</item>
+                  <item>* M<hi rend="sup">r</hi> Nicholas Baker</item>
+                  <item>* M<hi rend="sup">r</hi> William Bridges</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Barnes</item>
+                  <pb n="2" facs="tcp:37497:2" rendition="simple:additions"/>
+                  <item>* M<hi rend="sup">r</hi> Charles Balle</item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Brewſter</item>
+                  <item>* M<hi rend="sup">r</hi> Charles Bland</item>
+                  <item>* M<hi rend="sup">r</hi> John Bickley</item>
+                  <item>* M<hi rend="sup">r</hi> John Baker</item>
+                  <item>* M<hi rend="sup">r</hi> John Butterfeild</item>
+                  <item>* M<hi rend="sup">r</hi> Peter Burrell</item>
+                  <item>* M<hi rend="sup">r</hi> James Butler, <hi>a Minor</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Henry Baldwyn</item>
+                  <item>* M<hi rend="sup">r</hi> Benjamin Brownſmith</item>
+                  <item>* M<hi rend="sup">r</hi> George Burrard</item>
+                  <item>* M<hi rend="sup">rs</hi> Mary Booth</item>
+                  <item>* M<hi rend="sup">r</hi> Richard Brindley, <hi>a M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nor</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Paul Buiſſiere</item>
+                  <item>* M<hi rend="sup">r</hi> Robert Betteſworth</item>
+                  <item>* M<hi rend="sup">r</hi> Robert Brough, <hi>Sen.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> William Barnſley</item>
+                  <item>* M<hi rend="sup">r</hi> Brook Bridges, <hi>Jun.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Stephen Buttolph</item>
+                  <item>* M<hi rend="sup">r</hi> Lancelot Burton</item>
+                  <item>* M<hi rend="sup">r</hi> William Betts</item>
+                  <item>
+                     <hi>The Right Honourable</hi> Charles <hi>Earl of</hi> Berkeley</item>
+                  <item>Robert Bowes, <hi>Eſq;</hi>
+                  </item>
+                  <item>Brook Bridges, <hi>Eſq; Audit. in Truſt</hi>
+                  </item>
+                  <item>Arthur Bailey, <hi>Eſq;</hi>
+                  </item>
+                  <item>Samuel Baldwyn, <hi>Eſq;</hi>
+                  </item>
+                  <item>William Boulter, <hi>Eſq;</hi>
+                  </item>
+                  <item>Bartholomew Beale, <hi>Eſq;</hi>
+                  </item>
+                  <item>William Blennerhayſett, <hi>Eſq;</hi>
+                  </item>
+                  <item>Edward Bull, <hi>Eſq;</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Daniel Bru<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on</item>
+                  <item>M<hi rend="sup">r</hi> Joſias Bainton</item>
+                  <item>
+                     <hi>Col.</hi> Thomas Bru<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>enell</item>
+                  <item>M<hi rend="sup">r</hi> Richard Brodrepp</item>
+                  <item>M<hi rend="sup">r</hi> John Blackler</item>
+                  <item>M<hi rend="sup">r</hi> H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nry Bedell</item>
+                  <item>M<hi rend="sup">r</hi> Ep<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>raim Beauchamp</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Barnet</item>
+                  <item>M<hi rend="sup">r</hi> William Beard</item>
+                  <item>M<hi rend="sup">rs</hi> Sarah Browne</item>
+                  <item>M<hi rend="sup">r</hi> J<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>adah B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>llam</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Browne</item>
+                  <item>M<hi rend="sup">r</hi> Richard B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ult</item>
+                  <item>M<hi rend="sup">r</hi> John Busfeild</item>
+                  <item>Willi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m Bedford, <hi>D. D.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Thomas Bethell</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Barlow</item>
+                  <item>
+                     <hi>Dr.</hi> Hamphrey Brooks</item>
+                  <item>M<hi rend="sup">r</hi> Nicholas Be<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bey</item>
+                  <item>M<hi rend="sup">r</hi> James <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>edbury</item>
+                  <item>M<hi rend="sup">r</hi> John B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tler</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bra<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ake</item>
+                  <item>M<hi rend="sup">r</hi> J<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Bell<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>my</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Ann Barr</item>
+                  <item>M<hi rend="sup">r</hi> Richard Burton</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Baker</item>
+                  <item>M<hi rend="sup">r</hi> Henry Ballowe</item>
+                  <item>M<hi rend="sup">r</hi> Richard Blundell</item>
+                  <item>M<hi rend="sup">rs</hi> Judeth Bateman</item>
+                  <item>M<hi rend="sup">r</hi> Francis Benz<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lin</item>
+                  <item>M<hi rend="sup">r</hi> Joſiah Bacon</item>
+                  <item>M<hi rend="sup">r</hi> Charles Bargrave</item>
+                  <item>M<hi rend="sup">r</hi> John Ball</item>
+                  <item>M<hi rend="sup">rs</hi> Suſanne Becker</item>
+                  <item>M<hi rend="sup">rs</hi> Sarah Ba<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eman</item>
+                  <item>M<hi rend="sup">r</hi> John Buck</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Bowyear</item>
+                  <item>M<hi rend="sup">r</hi> William Barwell</item>
+                  <item>M<hi rend="sup">r</hi> William Bellamy</item>
+                  <item>M<hi rend="sup">r</hi> John Baker</item>
+                  <item>M<hi rend="sup">r</hi> Charles Beauvoir</item>
+                  <item>M<hi rend="sup">r</hi> John Baker <hi>and</hi> M<hi rend="sup">r</hi> Moſes Raper <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Robert Bicknell</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Bromſeild</item>
+                  <item>M<hi rend="sup">rs</hi> Jane Baſs</item>
+                  <item>M<hi rend="sup">r</hi> James Browne</item>
+                  <item>M<hi rend="sup">r</hi> George Bloodworth</item>
+                  <item>M<hi rend="sup">r</hi> Robert Burton</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Barlow</item>
+                  <item>M<hi rend="sup">r</hi> Gerrett Bouey <hi>and</hi> M<hi rend="sup">r</hi> William Barlemeyer</item>
+                  <item>M<hi rend="sup">rs</hi> Elinor Bliſſett</item>
+                  <item>M<hi rend="sup">rs</hi> Eſther Bateman</item>
+                  <item>M<hi rend="sup">r</hi> Charles Blunt</item>
+                  <item>M<hi rend="sup">r</hi> Germain Bazin</item>
+                  <item>M<hi rend="sup">rs</hi> Margaret Babington</item>
+                  <item>M<hi rend="sup">r</hi> John Buckſher, <hi>dec.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Michael Batt</item>
+                  <item>M<hi rend="sup">r</hi> Charles Berriman <hi>and</hi> M<hi rend="sup">r</hi> Thomas Wagſtaffe <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Breholt</item>
+                  <item>M<hi rend="sup">rs</hi> Frances Bclaſyſe</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Bradford</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Brooke</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Baynes <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> John Bridger, <hi>dec.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> James de Batts</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Benſon, <hi>dec.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Richard Ballam</item>
+                  <item>M<hi rend="sup">r</hi> Daniel Biddle</item>
+                  <item>M<hi rend="sup">r</hi> Timothy Burrell</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Browne</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Boulter</item>
+                  <item>M<hi rend="sup">r</hi> Humphry Bellamy</item>
+                  <item>M<hi rend="sup">r</hi> Dirck Barnevelt</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Biſcop</item>
+                  <item>M<hi rend="sup">r</hi> George Baniſter</item>
+                  <item>M<hi rend="sup">r</hi> John Braguier</item>
+                  <item>M<hi rend="sup">r</hi> Timothy Baignoux</item>
+                  <item>M<hi rend="sup">rs</hi> Frances Barnham</item>
+                  <item>M<hi rend="sup">rs</hi> Grace Barnham</item>
+                  <item>M<hi rend="sup">rs</hi> Emma Baker</item>
+                  <item>M<hi rend="sup">r</hi> William Boddington</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Bellers</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Barnewell</item>
+                  <item>M<hi rend="sup">r</hi> Auguſtine Brewſter</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Barton</item>
+                  <item>M<hi rend="sup">r</hi> Robert Burridge</item>
+                  <item>M<hi rend="sup">r</hi> Daniel Browne</item>
+                  <item>M<hi rend="sup">r</hi> James Beſchefer</item>
+                  <item>M<hi rend="sup">r</hi> James Bruce</item>
+                  <item>M<hi rend="sup">r</hi> David Boucheret</item>
+                  <item>M<hi rend="sup">r</hi> William Burry</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Barbe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>dec.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Richard Becher</item>
+                  <item>Gilbert Bury <hi>Eſq;</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Obadiah Burnett</item>
+                  <item>Edward Billingſl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y <hi>Eſq;</hi>
+                  </item>
+                  <item>Henry Billingſley <hi>Eſq;</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> John Barnes</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Bagwell</item>
+                  <item>M<hi rend="sup">r</hi> Henry Bullocke</item>
+                  <item>M<hi rend="sup">r</hi> Jſaac Brand</item>
+                  <item>William Brewer <hi>Eſq;</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Thomas Barneby</item>
+                  <item>M<hi rend="sup">r</hi> John Barnett</item>
+                  <item>M<hi rend="sup">r</hi> John Bridges</item>
+                  <item>M<hi rend="sup">r</hi> George Boſcher</item>
+                  <item>M<hi rend="sup">rs</hi> Dehorah Bur<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on</item>
+                  <item>M<hi rend="sup">r</hi> Robert Bampton</item>
+                  <item>M<hi rend="sup">r</hi> John Bonniol</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Barneſley</item>
+                  <item>M<hi rend="sup">rs</hi> Katherine Bentley</item>
+                  <item>M<hi rend="sup">r</hi> John Bancroft <hi>deceaſed</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> William Batſon</item>
+                  <item>M<hi rend="sup">r</hi> Anthony Beſt</item>
+                  <item>M<hi rend="sup">r</hi> John Bird</item>
+                  <item>M<hi rend="sup">r</hi> Richard Barrett</item>
+                  <item>M<hi rend="sup">r</hi> John Beane</item>
+                  <item>M<hi rend="sup">r</hi> John Banckes</item>
+                  <item>M<hi rend="sup">r</hi> John Bridge</item>
+                  <item>M<hi rend="sup">r</hi> William Brown</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Burt</item>
+                  <item>M<hi rend="sup">r</hi> John Buckham</item>
+                  <item>M<hi rend="sup">r</hi> Robert Brcedon</item>
+                  <item>M<hi rend="sup">r</hi> Jerome Brunetto Bru<g ref="char:EOLhyphen"/>netti</item>
+                  <item>M<hi rend="sup">r</hi> Edward Bridge</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Browning</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Blagrave <hi>a Minor</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Theophilus Boughey</item>
+                  <item>M<hi rend="sup">r</hi> Charles Bertheau</item>
+                  <item>M<hi rend="sup">r</hi> William Byles</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Briſcoe</item>
+                  <item>M<hi rend="sup">r</hi> Phineas Bowles</item>
+                  <item>M<hi rend="sup">r</hi> William Brooman</item>
+                  <item>M<hi rend="sup">r</hi> Joſhua Brixey</item>
+               </list>
+               <list>
+                  <head>C</head>
+                  <item>**** SIR John Cope, <hi>Bar.</hi>
+                  </item>
+                  <item>**** Sir Robert Clayton</item>
+                  <item>**** Edward Clark, <hi>Eſq;</hi>
+                  </item>
+                  <item>**** Richard Cradock, <hi>Eſq;</hi>
+                  </item>
+                  <item>**** Thomas Crud, <hi>Eſq;</hi>
+                  </item>
+                  <item>**** M<hi rend="sup">r</hi> Abraham Crompton</item>
+                  <item>**** M<hi rend="sup">r</hi> Thomas Cole</item>
+                  <item>**** M<hi rend="sup">r</hi> Philip Mendes, da Coſta</item>
+                  <item>**** M<hi rend="sup">r</hi> Gerard Conyers</item>
+                  <item>*** Sir John Cope, <hi>Jun.</hi>
+                  </item>
+                  <item>*** Henry Corniſh, <hi>Eſq;</hi>
+                  </item>
+                  <item>*** John Carter, <hi>Eſq;</hi>
+                  </item>
+                  <item>*** Alvaro da Coſta, <hi>Eſq;</hi>
+                  </item>
+                  <item>*** M<hi rend="sup">r</hi> Daniel Cauſton</item>
+                  <item>*** M<hi rend="sup">r</hi> Richard Chaſe</item>
+                  <item>** Sir John Cropley, <hi>Bar.</hi>
+                  </item>
+                  <item>** Dame Mary Colt</item>
+                  <item>** John Cook, <hi>Eſq;</hi>
+                  </item>
+                  <item>** Charles Chambrelan, <hi>Eſq;</hi>
+                  </item>
+                  <item>** M<hi rend="sup">r</hi> Joſeph Chambrelan</item>
+                  <item>** M<hi rend="sup">r</hi> Thomas Clarke</item>
+                  <item>** M<hi rend="sup">r</hi> William Coward</item>
+                  <item>** M<hi rend="sup">r</hi> John Coleman</item>
+                  <item>* <hi>The Right Honourable</hi> John <hi>Lord</hi> Culpeper</item>
+                  <item>* <hi>Major General</hi> Charles Churchill</item>
+                  <item>* Sir William Cowper, <hi>Bar.</hi>
+                  </item>
+                  <item>* <hi>The Honorable</hi> M<hi rend="sup">rs</hi> Philippa Culpeper</item>
+                  <item>* Sir John Cotton, <hi>Bar.</hi>
+                  </item>
+                  <item>* Sir James Collett</item>
+                  <item>* Hugh Chudleigh, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Robert Chaplin, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Charles Chetwynd, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Courtenay Croker, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Richard Crawley, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Dr. Theodore Colladon</item>
+                  <item>* Woolfran Cornwall, <hi>Eſq;</hi>
+                  </item>
+                  <item>* William Cooke, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Benjamin Le Cane, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Thomas Chriſtie, <hi>Eſq; De<g ref="char:EOLhyphen"/>ceaſed</hi>
+                  </item>
+                  <item>* Francis Carſwell, <hi>D. D.</hi>
+                  </item>
+                  <item>* John Chaplin, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Daniel Child, <hi>Eſq;</hi>
+                  </item>
+                  <item>* John Child, <hi>Eſq;</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Joſeph Cope</item>
+                  <item>* M<hi rend="sup">r</hi> Ceſar Chambrelan</item>
+                  <item>* M<hi rend="sup">r</hi> Joſeph Clarke</item>
+                  <item>* M<hi rend="sup">r</hi> James Cook</item>
+                  <item>* M<hi rend="sup">r</hi> William Chaſe</item>
+                  <item>* M<hi rend="sup">r</hi> John Crawley</item>
+                  <item>* M<hi rend="sup">r</hi> Edward Creſſener</item>
+                  <item>* M<hi rend="sup">r</hi> Adam Colhown</item>
+                  <item>* M<hi rend="sup">r</hi> Nathaniel Carpenter</item>
+                  <item>* M<hi rend="sup">r</hi> John Clayton</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Cowſlad</item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Clarke</item>
+                  <item>* <hi>Captain</hi> Ralph Crow</item>
+                  <item>* M<hi rend="sup">r</hi> Reynold Calthorp</item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Cox</item>
+                  <item>* M<hi rend="sup">r</hi> William Clarke</item>
+                  <item>* M<hi rend="sup">r</hi> John Clarke</item>
+                  <item>* M<hi rend="sup">r</hi> Francis De Caſeres</item>
+                  <item>* M<hi rend="sup">r</hi> Nathaniel Camfield</item>
+                  <item>* M<hi rend="sup">r</hi> Peter Cartwright</item>
+                  <item>* M<hi rend="sup">r</hi> Frederick Coleman</item>
+                  <item>* M<hi rend="sup">r</hi> John Cranenburgh</item>
+                  <item>* M<hi rend="sup">r</hi> Nicholas Criſp</item>
+                  <item>* M<hi rend="sup">r</hi> Richard Cary</item>
+                  <item>* M<hi rend="sup">rs</hi> Sarah Corniſh</item>
+                  <item>* M<hi rend="sup">r</hi> Anthony da Coſta, <hi>Jun.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Alexander Cleeve, <hi>and</hi> * M<hi rend="sup">r</hi> Joſeph Whitfeld</item>
+                  <item>* M<hi rend="sup">r</hi> Moſes Carrion</item>
+                  <item>* M<hi rend="sup">r</hi> Joſeph Collyer</item>
+                  <item>* M<hi rend="sup">r</hi> Iſaac Telles da Coſta</item>
+                  <item>* M<hi rend="sup">r</hi> Edmond Clarke</item>
+                  <item>* M<hi rend="sup">r</hi> Anthony da Coſta, <hi>Sen.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> William Clerke</item>
+                  <item>* M<hi rend="sup">r</hi> John Colman</item>
+                  <item>* M<hi rend="sup">r</hi> Matthew Cadwell</item>
+                  <item>* <hi>The Company of</hi> Clock-Ma<g ref="char:EOLhyphen"/>kers.</item>
+                  <item>* M<hi rend="sup">r</hi> William Crooke</item>
+                  <item>* M<hi rend="sup">r</hi> Robert Caſtel, <hi>Deceaſ.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> John Chinnal</item>
+                  <item>* M<hi rend="sup">r</hi> Joſeph Como</item>
+                  <item>* M<hi rend="sup">rs</hi> Elizabeth Cowper</item>
+                  <item>* M<hi rend="sup">r</hi> Robert Collman</item>
+                  <item>* M<hi rend="sup">r</hi> Andrew Coleman</item>
+                  <item>* M<hi rend="sup">r</hi> William Collins</item>
+                  <item>* M<hi rend="sup">rs</hi> Elizabeth Corniſh</item>
+                  <item>* M<hi rend="sup">r</hi> Charles Chaplin</item>
+                  <item>* M<hi rend="sup">r</hi> William Cowper</item>
+                  <item>* M<hi rend="sup">r</hi> Joſeph de Caſtro</item>
+                  <item>* M<hi rend="sup">r</hi> Edward Colman</item>
+                  <item>Sir William Craven</item>
+                  <item>Sir Herbert Croft, <hi>Bar.</hi>
+                  </item>
+                  <item>Sir Thomas Cuddon</item>
+                  <item>Sir John Chardin</item>
+                  <item>Sir Robert Cotton</item>
+                  <item>
+                     <hi>Col.</hi> George Churchill, <hi>and</hi> Hugh Chudleigh, <hi>Eſq; in Truſt</hi>
+                  </item>
+                  <item>James Caſtres, <hi>Eſq; Deceaſ.</hi>
+                  </item>
+                  <item>Andrew Card, <hi>Eſq;</hi>
+                  </item>
+                  <item>Maynard Colcheſter, <hi>Eſq;</hi>
+                  </item>
+                  <item>James Craggs, <hi>Eſq;</hi>
+                  </item>
+                  <item>William Cole, <hi>Eſq;</hi>
+                  </item>
+                  <item>Dame Katharine Combes</item>
+                  <item>John Cholmeley, <hi>Eſq;</hi>
+                  </item>
+                  <item>Richard Carr, <hi>M. D.</hi>
+                  </item>
+                  <item>John Cruwys, <hi>Eſq;</hi>
+                  </item>
+                  <item>James Cardonnel, <hi>Eſq;</hi>
+                  </item>
+                  <item>Francis Le Cog, <hi>Eſq;</hi>
+                  </item>
+                  <item>Richard Cheyney, <hi>Eſq;</hi>
+                  </item>
+                  <item>Charles Cocks, <hi>Eſq;</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Simon Cole</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Cake</item>
+                  <item>M<hi rend="sup">r</hi> James Campredon</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Clement</item>
+                  <item>M<hi rend="sup">rs</hi> Ann Clarke</item>
+                  <item>M<hi rend="sup">r</hi> John Crawley</item>
+                  <item>M<hi rend="sup">r</hi> Edward Cooke</item>
+                  <item>M<hi rend="sup">rs</hi> Frances Curtiſe</item>
+                  <item>M<hi rend="sup">r</hi> John Chadwicke</item>
+                  <item>M<hi rend="sup">rs</hi> Ann Cony</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Coleman</item>
+                  <item>M<hi rend="sup">rs</hi> Helene de Chiure</item>
+                  <item>William Cole, <hi>M. D.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Robert Conant</item>
+                  <item>M<hi rend="sup">rs</hi> Priſcilla Carter</item>
+                  <item>M<hi rend="sup">r</hi> William Churchill</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Colby, <hi>Jun.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> James Church</item>
+                  <item>M<hi rend="sup">r</hi> William Cowper</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Culling</item>
+                  <item>M<hi rend="sup">r</hi> John Collins</item>
+                  <item>M<hi rend="sup">r</hi> John du Commun</item>
+                  <item>M<hi rend="sup">r</hi> Benjamin Cater</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Crofte</item>
+                  <item>M<hi rend="sup">r</hi> John Cooke</item>
+                  <item>M<hi rend="sup">r</hi> John Charlton</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Cockeril</item>
+                  <item>Dame Mary Calverly</item>
+                  <item>Dr. Edward Chamberlayne</item>
+                  <item>M<hi rend="sup">r</hi> John Cheſhire</item>
+                  <item>M<hi rend="sup">r</hi> William Chambers</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Criſp</item>
+                  <item>M<hi rend="sup">r</hi> Lewin Cholmley</item>
+                  <item>M<hi rend="sup">r</hi> John Cooper</item>
+                  <item>M<hi rend="sup">r</hi> Henry Collins</item>
+                  <pb n="3" facs="tcp:37497:2"/>
+                  <item>M<hi rend="sup">r</hi> William Chauncy</item>
+                  <item>M<hi rend="sup">r</hi> John Cawdry</item>
+                  <item>M<hi rend="sup">r</hi> Freeman Collins</item>
+                  <item>M<hi rend="sup">r</hi> John Chriſtie</item>
+                  <item>
+                     <hi>The Company of</hi> Carpenters</item>
+                  <item>M<hi rend="sup">r</hi> Peter Cauſton, <hi>Sen.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Samuel Clifton</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Came <hi>and</hi> M<hi rend="sup">r</hi> John Stubbing</item>
+                  <item>M<hi rend="sup">r</hi> John Child</item>
+                  <item>M<hi rend="sup">r</hi> James Cooper</item>
+                  <item>M<hi rend="sup">rs</hi> Averin Clarke</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Cary</item>
+                  <item>M<hi rend="sup">r</hi> James Chaplin</item>
+                  <item>M<hi rend="sup">r</hi> Peter Cazalet</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Cary, <hi>Widow</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Robert Cowper</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Cary</item>
+                  <item>M<hi rend="sup">r</hi> H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nry Clerke</item>
+                  <item>M<hi rend="sup">r</hi> Richard Carter</item>
+                  <item>M<hi rend="sup">r</hi> Nicholas Charlton</item>
+                  <item>M<hi rend="sup">r</hi> Matthew Collet</item>
+                  <item>M<hi rend="sup">r</hi> John Cooper</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Colet</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Cauſton</item>
+                  <item>M<hi rend="sup">r</hi> Aunſham Churchill</item>
+                  <item>M<hi rend="sup">r</hi> Chriſtopher Cope</item>
+                  <item>M<hi rend="sup">r</hi> Jonathan Cartwright</item>
+                  <item>M<hi rend="sup">r</hi> Francis C<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y</item>
+                  <item>M<hi rend="sup">r</hi> Gawen Coroin</item>
+                  <item>M<hi rend="sup">r</hi> T<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>omas Collet</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Collins</item>
+                  <item>M<hi rend="sup">r</hi> Abraham Chambers, <hi>Deceaſed</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Robert Chandler</item>
+                  <item>M<hi rend="sup">r</hi> George Creſſener</item>
+                  <item>M<hi rend="sup">rs</hi> R<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nea Chambrelan</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Croſſe</item>
+                  <item>M<hi rend="sup">r</hi> Robert Colby</item>
+                  <item>M<hi rend="sup">r</hi> Nicholas Cooper</item>
+                  <item>M<hi rend="sup">r</hi> William Coleman</item>
+                  <item>M<hi rend="sup">r</hi> J<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ph Chaplin</item>
+                  <item>M<hi rend="sup">rs</hi> Ann Coulborn</item>
+                  <item>M<hi rend="sup">r</hi> John Clarke, <hi>a Minor</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Richard Clay</item>
+                  <item>M<hi rend="sup">rs</hi> E<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iz<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>beth Clay</item>
+                  <item>M<hi rend="sup">r</hi> T<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>omas Crome</item>
+                  <item>M<hi rend="sup">r</hi> Nicholas Covert</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Collett</item>
+                  <item>Henry Coleman, <hi>B. A.</hi>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Suſannah Collyer</item>
+                  <item>M<hi rend="sup">r</hi> John Clapham</item>
+                  <item>M<hi rend="sup">r</hi> Theophilus Cater</item>
+                  <item>M<hi rend="sup">r</hi> Robert Coſens</item>
+                  <item>M<hi rend="sup">r</hi> John Cole</item>
+                  <item>M<hi rend="sup">rs</hi> Abigail Claridge</item>
+                  <item>M<hi rend="sup">r</hi> Charles Colinet, <hi>Dec.</hi>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Barbara Anna de Cal<g ref="char:EOLhyphen"/>vert</item>
+                  <item>M<hi rend="sup">r</hi> Nicholas Clignet</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Colby</item>
+                  <item>M<hi rend="sup">rs</hi> Katherine Chute</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Church</item>
+                  <item>M<hi rend="sup">r</hi> Pheaſant Criſp</item>
+               </list>
+               <list>
+                  <head>D</head>
+                  <item>**** JAmes Denew Eſq;</item>
+                  <item>**** M<hi rend="sup">r</hi> Peter Delmé</item>
+                  <item>**** M<hi rend="sup">r</hi> William Dawſonne</item>
+                  <item>**** M<hi rend="sup">r</hi> William Diſher</item>
+                  <item>**** M<hi rend="sup">r</hi> John Mendes Da Coſta</item>
+                  <item>*** <hi>His Grace</hi> William <hi>Duke of</hi> Devonſhire</item>
+                  <item>*** M<hi rend="sup">r</hi> John Delmé</item>
+                  <item>** M<hi rend="sup">r</hi> Denis Dutry</item>
+                  <item>** M<hi rend="sup">r</hi> Joſeph Ducaſſe</item>
+                  <item>** M<hi rend="sup">r</hi> John De Vinck</item>
+                  <item>** M<hi rend="sup">r</hi> Thomas Dalton</item>
+                  <item>** M<hi rend="sup">r</hi> Joſias Dewye, <hi>dec.</hi>
+                  </item>
+                  <item>* <hi>The Right Honourable,</hi> James <hi>Earl of</hi> Dalkeith</item>
+                  <item>* <hi>Coll.</hi> Benjamin Dry</item>
+                  <item>* John Dutton Colt <hi>Eſq;</hi>
+                  </item>
+                  <item>* Edmund Dickinſon, <hi>M. D.</hi>
+                  </item>
+                  <item>* Richard Dalton <hi>Eſq;</hi>
+                  </item>
+                  <item>* Samuel Dodd <hi>Eſq;</hi>
+                  </item>
+                  <item>* John Deacle <hi>Eſq;</hi>
+                  </item>
+                  <item>* John Duncombe <hi>Eſq;</hi>
+                  </item>
+                  <item>* David Devarenne La Bre<g ref="char:EOLhyphen"/>tonniere, <hi>Eſq;</hi>
+                  </item>
+                  <item>* <hi>Sir</hi> Frederick Guillaume de Dieſt</item>
+                  <item>* M<hi rend="sup">r</hi> Joſiah Diſton</item>
+                  <item>* M<hi rend="sup">r</hi> Paul D'Aranda</item>
+                  <item>* M<hi rend="sup">r</hi> Solomon Dupeer</item>
+                  <item>* M<hi rend="sup">r</hi> John Dyer</item>
+                  <item>* M<hi rend="sup">r</hi> Daniel D'Orville</item>
+                  <item>* M<hi rend="sup">r</hi> John Dunſter</item>
+                  <item>* M<hi rend="sup">r</hi> John Dent</item>
+                  <item>* M<hi rend="sup">r</hi> Daniel Denny</item>
+                  <item>* M<hi rend="sup">r</hi> Abraham Duez</item>
+                  <item>* M<hi rend="sup">r</hi> Henry Dry</item>
+                  <item>* M<hi rend="sup">r</hi> Francois Dechamps</item>
+                  <item>* M<hi rend="sup">r</hi> Benjamin Dejenne</item>
+                  <item>* M<hi rend="sup">r</hi> William Dixon</item>
+                  <item>* M<hi rend="sup">r</hi> James Dufay</item>
+                  <item>* M<hi rend="sup">r</hi> Richard Dickſon</item>
+                  <item>* M<hi rend="sup">r</hi> Jacob Deiillers</item>
+                  <item>* Robert D'Oyly, <hi>M. A.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Alexander Dyer</item>
+                  <item>Francis Daſhwood <hi>Eſq;</hi>
+                  </item>
+                  <item>George Dodſon <hi>Eſq;</hi>
+                  </item>
+                  <item>George D'avenant <hi>Eſq;</hi>
+                  </item>
+                  <item>Michael Dickenſon <hi>Eſq; dec</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Samuel Davenport</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Dodd</item>
+                  <item>M<hi rend="sup">rs</hi> Sarah Dent</item>
+                  <item>M<hi rend="sup">r</hi> Mathieu Des hais</item>
+                  <item>M<hi rend="sup">r</hi> George D'avenport</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Deynoot</item>
+                  <item>M<hi rend="sup">r</hi> John Day</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Duthoit</item>
+                  <item>M<hi rend="sup">r</hi> John Davies</item>
+                  <item>M<hi rend="sup">r</hi> Peter Daude</item>
+                  <item>M<hi rend="sup">r</hi> John Denew</item>
+                  <item>M<hi rend="sup">r</hi> John Dodſon</item>
+                  <item>M<hi rend="sup">r</hi> Alexander Duroure Desbonnaux</item>
+                  <item>M<hi rend="sup">r</hi> Baldwin Duppa</item>
+                  <item>M<hi rend="sup">r</hi> John Dickonſon</item>
+                  <item>M<hi rend="sup">r</hi> William Dickinſon</item>
+                  <item>M<hi rend="sup">r</hi> Pierre De Laplante</item>
+                  <item>M<hi rend="sup">r</hi> John De Berdt</item>
+                  <item>M<hi rend="sup">r</hi> John Daberon</item>
+                  <item>M<hi rend="sup">r</hi> John Duck</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Dunwell</item>
+                  <item>M<hi rend="sup">r</hi> Paul Dufour</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Dering</item>
+                  <item>M<hi rend="sup">r</hi> Richard Dyer <hi>dec.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> John Darby</item>
+                  <item>M<hi rend="sup">rs</hi> Judith Dergnouth</item>
+                  <item>M<hi rend="sup">r</hi> Michel Dieu</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Dugles</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Dixon</item>
+                  <item>M<hi rend="sup">r</hi> Robert Dawſon <hi>Sen.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Newcomb Dawſon</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Deane</item>
+                  <item>M<hi rend="sup">r</hi> John Dubourdieu</item>
+                  <item>M<hi rend="sup">rs</hi> Renee Duval</item>
+                  <item>M<hi rend="sup">r</hi> William Dunbar</item>
+                  <item>M<hi rend="sup">r</hi> Daniel Draycott</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Day</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Dunk</item>
+                  <item>M<hi rend="sup">r</hi> George Nicolaus Dob<g ref="char:EOLhyphen"/>bertin</item>
+                  <item>M<hi rend="sup">rs</hi> Hannah Drake</item>
+                  <item>M<hi rend="sup">rs</hi> Priſcilla Dennett</item>
+                  <item>M<hi rend="sup">r</hi> Robert Dry</item>
+                  <item>M<hi rend="sup">r</hi> John Dove</item>
+                  <item>M<hi rend="sup">r</hi> James Daviſon</item>
+                  <item>M<hi rend="sup">rs</hi> Deborah Daniell</item>
+                  <item>M<hi rend="sup">r</hi> John Day</item>
+               </list>
+               <list>
+                  <head>E</head>
+                  <item>**** Sir John Ewill</item>
+                  <item>**** Thomas Ewer <hi>Eſq;</hi>
+                  </item>
+                  <item>**** M<hi rend="sup">r</hi> Francis Eyles</item>
+                  <item>**** M<hi rend="sup">r</hi> Benjamin England</item>
+                  <item>* Sir John Eyles</item>
+                  <item>* John Ellis <hi>Eſq;</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> John Ewer</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Ellis</item>
+                  <item>* M<hi rend="sup">r</hi> Patrick Ellis</item>
+                  <item>* M<hi rend="sup">r</hi> John Emilie</item>
+                  <item>* M<hi rend="sup">r</hi> Francis Edwards</item>
+                  <item>* M<hi rend="sup">r</hi> Joſhua Eddowes</item>
+                  <item>* M<hi rend="sup">r</hi> John Ebſworth</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Emes</item>
+                  <item>* Henry Edes <hi>D. D.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Richard Elford</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Edwards</item>
+                  <item>* M<hi rend="sup">r</hi> Henry Emmet</item>
+                  <item>John Eddowes <hi>Eſq;</hi>
+                  </item>
+                  <item>John Edwards <hi>Eſq;</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Jacob Edge</item>
+                  <item>M<hi rend="sup">r</hi> Richard Edmonſon</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Elphicke</item>
+                  <item>M<hi rend="sup">r</hi> John Emes</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Eburn</item>
+                  <item>M<hi rend="sup">r</hi> Robert Eeles</item>
+                  <item>M<hi rend="sup">r</hi> Robert Ericke</item>
+                  <item>M<hi rend="sup">r</hi> Robert Emerſon</item>
+                  <item>M<hi rend="sup">r</hi> John Emmatt</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Edwards</item>
+                  <item>M<hi rend="sup">rs</hi> Eſther Eſtwicke</item>
+                  <item>M<hi rend="sup">r</hi> Edward Ettricke</item>
+                  <item>M<hi rend="sup">r</hi> John Eſton</item>
+                  <item>M<hi rend="sup">rs</hi> Jane Evans</item>
+                  <item>M<hi rend="sup">r</hi> Joſiah Ellis</item>
+                  <item>M<hi rend="sup">r</hi> Iſaac Ewer</item>
+                  <item>M<hi rend="sup">r</hi> John Eſſington</item>
+                  <item>M<hi rend="sup">r</hi> Roger Edgerly</item>
+               </list>
+               <list>
+                  <head>F.</head>
+                  <item>**** Sir Henry Furneſe</item>
+                  <item>**** Sir Steven Fox</item>
+                  <item>**** Samuel Fuller <hi>Eſq;</hi>
+                  </item>
+                  <item>** Thomas Fuller D. D.</item>
+                  <item>** M<hi rend="sup">r</hi> John Freame</item>
+                  <item>** M<hi rend="sup">r</hi> Philip Fincher</item>
+                  <item>** M<hi rend="sup">r</hi> William Farnbrough</item>
+                  <item>** M<hi rend="sup">r</hi> Charles Feltham</item>
+                  <item>** M<hi rend="sup">r</hi> Peter Floyer</item>
+                  <item>* Sir James Forbes</item>
+                  <item>* <hi>Sir</hi> Heneage Fetherſton, <hi>Bar.</hi>
+                  </item>
+                  <item>* Heneage Fetherſton <hi>Eſq;</hi>
+                  </item>
+                  <item>* John Freke <hi>Eſq;</hi>
+                  </item>
+                  <item>* Thomas Frederick <hi>Eſq;</hi>
+                  </item>
+                  <item>* James Fraſer, <hi>Eſq;</hi>
+                  </item>
+                  <item>* James Frontin, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Peter Frowde, <hi>Eſq;</hi>
+                  </item>
+                  <item>* <hi>Coll.</hi> Thomas Farrington</item>
+                  <item>* M<hi rend="sup">rs</hi> Mary Freke</item>
+                  <item>* M<hi rend="sup">r</hi> Timothy Fowler</item>
+                  <item>* M<hi rend="sup">r</hi> Samſon Fenn</item>
+                  <item>* Cap. Richard Fitzpatrick</item>
+                  <item>* M<hi rend="sup">r</hi> Henry Foſter</item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Fowler</item>
+                  <item>* M<hi rend="sup">r</hi> Hugh Fraſer</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Farmborough <hi>Senior</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Henry Francis</item>
+                  <item>* M<hi rend="sup">r</hi> Robert Foot.</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Farmborough <hi>Junior</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Daniel Fox</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Fyge</item>
+                  <item>* M<hi rend="sup">r</hi> Abraham Fromanteel</item>
+                  <item>* M<hi rend="sup">rs</hi> Millicent Fuller</item>
+                  <item>* M<hi rend="sup">r</hi> John Fiſher</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Fiſher</item>
+                  <item>* M<hi rend="sup">rs</hi> Lucy Frowde</item>
+                  <item>Percy Freke <hi>Eſq;</hi>
+                  </item>
+                  <item>William Fenwick <hi>Eſq;</hi>
+                  </item>
+                  <item>Phillips Farew<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll <hi>Eſq;</hi>
+                  </item>
+                  <item>Charles Frampton <hi>Eſq;</hi>
+                  </item>
+                  <item>George Fl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ming <hi>M. D.</hi>
+                  </item>
+                  <item>Samuel Fuller <hi>D. D.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Andrew Francklyn</item>
+                  <item>M<hi rend="sup">rs</hi> Hannah Freeman</item>
+                  <item>M<hi rend="sup">r</hi> James Fry</item>
+                  <item>M<hi rend="sup">r</hi> Philipe Ferment</item>
+                  <item>M<hi rend="sup">r</hi> William Flud<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er</item>
+                  <item>M<hi rend="sup">r</hi> John Fairclough</item>
+                  <item>M<hi rend="sup">r</hi> Edward Flower</item>
+                  <item>M<hi rend="sup">rs</hi> Rebecca Fowler</item>
+                  <item>M<hi rend="sup">r</hi> Richard Finny</item>
+                  <item>M<hi rend="sup">r</hi> Francis Forbes</item>
+                  <item>M<hi rend="sup">rs</hi> Anna Formont</item>
+                  <item>M<hi rend="sup">r</hi> William Faz<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kerley</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Freem<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Heſter Foote</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Franckl<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Abraham Fo<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Beatris Fiſh<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Suſanne de l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> F<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Chriſtopher F<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſtone Haugh</item>
+                  <item>M<hi rend="sup">r</hi> Richard Finch</item>
+                  <item>M<hi rend="sup">rs</hi> Alice Fletcher</item>
+                  <item>M<hi rend="sup">rs</hi> Grace Fy<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ney</item>
+                  <item>M<hi rend="sup">rs</hi> Margaret de Farcy <hi>dec.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Thomas Fowler</item>
+                  <item>M<hi rend="sup">r</hi> Edward Folkingham <hi>deceaſed</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Edward Fenwick</item>
+                  <item>M<hi rend="sup">r</hi> Anthony Ferris</item>
+                  <item>M<hi rend="sup">rs</hi> Averin Filleter</item>
+                  <item>M<hi rend="sup">r</hi> John Fiſher</item>
+                  <item>M<hi rend="sup">r</hi> John Fargeon</item>
+                  <item>M<hi rend="sup">r</hi> Francis Fo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cer</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Finch</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Fuller</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Foſter</item>
+               </list>
+               <list>
+                  <head>G.</head>
+                  <item>**** <hi>Sir</hi> William Gore</item>
+                  <item>**** Peter Gott, <hi>Eſq;</hi>
+                  </item>
+                  <item>**** M<hi rend="sup">r</hi> Nathaniel Gould</item>
+                  <item>**** M<hi rend="sup">r</hi> Thomas Goddard</item>
+                  <item>**** M<hi rend="sup">r</hi> John Gould</item>
+                  <item>**** M<hi rend="sup">r</hi> Thomas Gouge</item>
+                  <item>**** M<hi rend="sup">r</hi> John Guy</item>
+                  <item>**** M<hi rend="sup">rs</hi> Ann Mary Godfrey</item>
+                  <item>*** M<hi rend="sup">r</hi> George Gould</item>
+                  <item>*** M<hi rend="sup">r</hi> Thomas Grey</item>
+                  <item>** <hi>Sir</hi> John Germain</item>
+                  <item>** Benjamin Godfrey, <hi>Eſq;</hi>
+                  </item>
+                  <item>** Nehemiah Grew, <hi>M. D.</hi>
+                  </item>
+                  <item>** M<hi rend="sup">r</hi> Thomas Gunſton</item>
+                  <item>** M<hi rend="sup">r</hi> Anthony Greene</item>
+                  <item>** M<hi rend="sup">r</hi> Thomas Gould</item>
+                  <item>* <hi>Coll.</hi> Charles Godfrey</item>
+                  <item>* William Gore, <hi>Eſq;</hi>
+                  </item>
+                  <item>* William Gould, <hi>M. D.</hi>
+                  </item>
+                  <item>* Richard Guy, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Ralph Gore, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Thomas Guy, <hi>Eſq;</hi>
+                  </item>
+                  <item>* George Gooday, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Henry Greenhill, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Thomas Gibſon, <hi>M. D.</hi>
+                  </item>
+                  <item>* John Goodere, <hi>Eſq;</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> John Gore</item>
+                  <item>* M<hi rend="sup">r</hi> Richard Gough</item>
+                  <item>* M<hi rend="sup">r</hi> John Gibbon</item>
+                  <item>* M<hi rend="sup">r</hi> Peter Gelſthorp</item>
+                  <item>* M<hi rend="sup">r</hi> John Girardot de Til<g ref="char:EOLhyphen"/>lieux</item>
+                  <item>* M<hi rend="sup">r</hi> Tobias Garbrand</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Gardiner</item>
+                  <item>* M<hi rend="sup">r</hi> John Godſchall</item>
+                  <item>* M<hi rend="sup">rs</hi> Elizabeth Garneys</item>
+                  <pb n="4" facs="tcp:37497:3"/>
+                  <item>* M<hi rend="sup">r</hi> John Gape</item>
+                  <item>* M<hi rend="sup">r</hi> Charles Gore</item>
+                  <item>* M<hi rend="sup">r</hi> Henry Greſwold</item>
+                  <item>* M<hi rend="sup">r</hi> Edward Grace</item>
+                  <item>* M<hi rend="sup">r</hi> Peter Godfrey.</item>
+                  <item>* M<hi rend="sup">r</hi> Iſaac Garnier.</item>
+                  <item>* M<hi rend="sup">r</hi> John Gunſton</item>
+                  <item>* M<hi rend="sup">rs</hi> Annetrinette Griel</item>
+                  <item>* M<hi rend="sup">r</hi> John Gawthorn</item>
+                  <item>* M<hi rend="sup">r</hi> Joſhua Gearing <hi>Senior</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Richard Gwinne</item>
+                  <item>* M<hi rend="sup">r</hi> John Gerrard</item>
+                  <item>
+                     <hi>Sir</hi> Humphry Gore</item>
+                  <item>Jeremy Gregory <hi>Eſq;</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Obadiah Gaisford</item>
+                  <item>M<hi rend="sup">r</hi> John Gallaway</item>
+                  <item>M<hi rend="sup">r</hi> Wentworth Gatneys</item>
+                  <item>Charles Goodall, <hi>M. D.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Thomas Guenault</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Ginder</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Goddard <hi>and</hi> M<hi rend="sup">r</hi> Obadiah Sedgwick, <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Nathan Greene</item>
+                  <item>M<hi rend="sup">r</hi> Nathaniel Gould, <hi>in Truſt</hi>
+                  </item>
+                  <item>Salomon de Guerin, <hi>Eſq;</hi>
+                  </item>
+                  <item>
+                     <hi>Dame</hi> Margaret Goſtlin</item>
+                  <item>M<hi rend="sup">r</hi> Abraham Gilbert</item>
+                  <item>M<hi rend="sup">r</hi> Stephen Garret</item>
+                  <item>M<hi rend="sup">r</hi> Nicholas Goodwin</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Graves</item>
+                  <item>M<hi rend="sup">r</hi> John Graverol</item>
+                  <item>M<hi rend="sup">r</hi> William Gardiner</item>
+                  <item>M<hi rend="sup">r</hi> Jeffery Griffith</item>
+                  <item>M<hi rend="sup">rs</hi> Ann Greſwold</item>
+                  <item>M<hi rend="sup">r</hi> George Gibſon</item>
+                  <item>M<hi rend="sup">r</hi> Alexander Geekie</item>
+                  <item>M<hi rend="sup">rs</hi> Judith Gourney</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Graves</item>
+                  <item>M<hi rend="sup">r</hi> Richard Gipps</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Groome</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Gibſon</item>
+                  <item>M<hi rend="sup">r</hi> Robert Goddard</item>
+                  <item>M<hi rend="sup">r</hi> George Grove</item>
+                  <item>M<hi rend="sup">rs</hi> Rebecca Godolphin</item>
+                  <item>M<hi rend="sup">r</hi> Benjamin Green</item>
+                  <item>M<hi rend="sup">r</hi> Philip Gombart</item>
+                  <item>M<hi rend="sup">r</hi> Francis Gosfright</item>
+                  <item>M<hi rend="sup">r</hi> Roger Garvis</item>
+                  <item>M<hi rend="sup">r</hi> Timothy Griffith</item>
+                  <item>M<hi rend="sup">r</hi> Richard Greenaway</item>
+                  <item>M<hi rend="sup">r</hi> Anthony Gomezſerra</item>
+                  <item>M<hi rend="sup">r</hi> John Goudet</item>
+                  <item>M<hi rend="sup">r</hi> Gabriel Glover</item>
+                  <item>M<hi rend="sup">r</hi> Edward Grace</item>
+                  <item>M<hi rend="sup">rs</hi> Judith Gourney, <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Edward Gibbon</item>
+                  <item>M<hi rend="sup">rs</hi> Marie Gilbert</item>
+                  <item>M<hi rend="sup">rs</hi> Frenſois Gaſſelin</item>
+                  <item>M<hi rend="sup">r</hi> Edward Grace</item>
+                  <item>M<hi rend="sup">r</hi> Anthony Green, <hi>in Truſt.</hi>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Suſanne de Gualy</item>
+                  <item>M<hi rend="sup">r</hi> James Girardot Du<g ref="char:EOLhyphen"/>perron</item>
+                  <item>M<hi rend="sup">r</hi> Abraham Gozem de Araújo</item>
+                  <item>M<hi rend="sup">rs</hi> Anne Groſvenor</item>
+                  <item>M<hi rend="sup">r</hi> Anthony Green, <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Thomas Goddard, <hi>Ba<g ref="char:EOLhyphen"/>ker</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> John Girard</item>
+                  <item>M<hi rend="sup">r</hi> James Greive</item>
+                  <item>M<hi rend="sup">r</hi> John Graſty</item>
+                  <item>M<hi rend="sup">rs</hi> Katherine Gore</item>
+                  <item>M<hi rend="sup">r</hi> John Glynn</item>
+                  <item>M<hi rend="sup">rs</hi> Martha Gordan</item>
+                  <item>M<hi rend="sup">r</hi> John Greening</item>
+               </list>
+               <list>
+                  <head>H</head>
+                  <item>**** <hi>THE Honourable, Sir</hi> John Houblon</item>
+                  <item>**** <hi>Sir</hi> John Huband <hi>Bar.</hi>
+                  </item>
+                  <item>**** <hi>Sir</hi> James Houblon</item>
+                  <item>**** <hi>Sir</hi> William Hedges</item>
+                  <item>**** John Hervey <hi>Eſq;</hi>
+                  </item>
+                  <item>**** Thomas Howard <hi>Eſq;</hi>
+                  </item>
+                  <item>**** Mathew Humberſtone <hi>Eſq;</hi>
+                  </item>
+                  <item>**** M<hi rend="sup">r</hi> Iſaac Houblon</item>
+                  <item>**** M<hi rend="sup">r</hi> Abraham Houblon</item>
+                  <item>**** M<hi rend="sup">r</hi> Gilbert Heathcote</item>
+                  <item>**** M<hi rend="sup">r</hi> Samuel Heathcote</item>
+                  <item>**** M<hi rend="sup">r</hi> Joſeph Haskinſtiles</item>
+                  <item>**** M<hi rend="sup">r</hi> Peter Henriques <hi>Jun.</hi>
+                  </item>
+                  <item>**** <hi>The Lady</hi> Heſter Hervart</item>
+                  <item>*** <hi>Sir</hi> Charles Hedges</item>
+                  <item>*** Thomas Hoby <hi>Eſq;</hi>
+                  </item>
+                  <item>*** Richard Hill <hi>Eſq;</hi>
+                  </item>
+                  <item>*** Thomas Hunt <hi>Eſq;</hi>
+                  </item>
+                  <item>*** Maurice Hunt <hi>Eſq;</hi>
+                  </item>
+                  <item>*** M<hi rend="sup">r</hi> Mathew Howard</item>
+                  <item>** <hi>The Right Honourable, Sir</hi> Robert Howard <hi>deceaſed</hi>
+                  </item>
+                  <item>** <hi>The Right Honourable, Lady</hi> Diana Howard</item>
+                  <item>** <hi>Dame</hi> Anne Hedges</item>
+                  <item>** James Hamilton <hi>Eſq;</hi>
+                  </item>
+                  <item>** Thomas Hall <hi>Eſq;</hi>
+                  </item>
+                  <item>** M<hi rend="sup">r</hi> Daniel Hays</item>
+                  <item>** M<hi rend="sup">r</hi> John Heſter <hi>Merchant</hi>
+                  </item>
+                  <item>** M<hi rend="sup">r</hi> Nathanael Houlton, <hi>Sen.</hi>
+                  </item>
+                  <item>** M<hi rend="sup">r</hi> Edward Harriſon</item>
+                  <item>* <hi>The Honourable, Sir</hi> John Houblon <hi>in Truſt.</hi>
+                  </item>
+                  <item>* <hi>The Honourable, Sir</hi> John Houblon and John Houb<g ref="char:EOLhyphen"/>lon <hi>Eſq;</hi>
+                  </item>
+                  <item>* <hi>The Lady</hi> Katherine Her<g ref="char:EOLhyphen"/>bert</item>
+                  <item>* <hi>Sir</hi> Richard Holford</item>
+                  <item>* <hi>Coll.</hi> John Hallet</item>
+                  <item>* Henry Henley <hi>Eſq;</hi>
+                  </item>
+                  <item>* Humphrey Hetherington <hi>Eſq;</hi>
+                  </item>
+                  <item>* John Houblon <hi>Eſq;</hi>
+                  </item>
+                  <item>* Abraham Hill <hi>Eſq;</hi>
+                  </item>
+                  <item>* John Harvey <hi>Eſq;</hi>
+                  </item>
+                  <item>* Thomas Howard <hi>Jun. Eſq;</hi>
+                  </item>
+                  <item>* Richard Holt <hi>Eſq;</hi>
+                  </item>
+                  <item>* Gilbert Horſman <hi>Eſq;</hi>
+                  </item>
+                  <item>* Iſaac Honywood <hi>Eſq;</hi>
+                  </item>
+                  <item>* Jeremy Hale <hi>Eſq;</hi>
+                  </item>
+                  <item>* Thomas Hewet <hi>Eſq;</hi>
+                  </item>
+                  <item>* Ralph Hare <hi>Eſq;</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Abraham Houblon <hi>in Truſt</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Abraham Houblon <hi>in Truſt</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Paul Houblon</item>
+                  <item>* M<hi rend="sup">r</hi> James Houblon</item>
+                  <item>* M<hi rend="sup">r</hi> Henry Houblon</item>
+                  <item>* M<hi rend="sup">r</hi> Richard Houblon</item>
+                  <item>* M<hi rend="sup">rs</hi> Anne Houblon</item>
+                  <item>* <hi>Dr</hi> Chriſtianus Harel</item>
+                  <item>* Edward Hulſe <hi>M. D.</hi>
+                  </item>
+                  <item>* Griffith Hatley <hi>M. D.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> John Hanger</item>
+                  <item>* M<hi rend="sup">r</hi> John Hall</item>
+                  <item>* M<hi rend="sup">rs</hi> Elizabeth Hamilton</item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Harwar</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Hollis <hi>Sen.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Hollis <hi>Jun.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> John Harwood</item>
+                  <item>* M<hi rend="sup">r</hi> Nathanael Hewitt</item>
+                  <item>* M<hi rend="sup">r</hi> John Hill</item>
+                  <item>* M<hi rend="sup">r</hi> Humphry Hill</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Hayton <hi>Sen.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Robert Hackſhaw</item>
+                  <item>* M<hi rend="sup">rs</hi> Ann Hicks</item>
+                  <item>* M<hi rend="sup">r</hi> Joſeph Huntman</item>
+                  <item>* M<hi rend="sup">rs</hi> Margaret Haines</item>
+                  <item>* M<hi rend="sup">r</hi> John Hill</item>
+                  <item>* M<hi rend="sup">r</hi> William Heathcote</item>
+                  <item>* M<hi rend="sup">r</hi> John Hooker</item>
+                  <item>* M<hi rend="sup">rs</hi> Margaret Haſwell</item>
+                  <item>* M<hi rend="sup">r</hi> John Heſter</item>
+                  <item>* M<hi rend="sup">r</hi> John Hollis</item>
+                  <item>* M<hi rend="sup">r</hi> John Hollinpreiſt</item>
+                  <item>* M<hi rend="sup">r</hi> Benjamin Howes</item>
+                  <item>* M<hi rend="sup">r</hi> William Heath</item>
+                  <item>* M<hi rend="sup">r</hi> David Heaton</item>
+                  <item>* M<hi rend="sup">r</hi> Edward Haiſtwell</item>
+                  <item>* M<hi rend="sup">r</hi> Jonathan Hardey</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Humphreys</item>
+                  <item>* M<hi rend="sup">r</hi> David Heywood</item>
+                  <item>* M<hi rend="sup">r</hi> John Hodgſon</item>
+                  <item>* M<hi rend="sup">r</hi> Henry Hayter</item>
+                  <item>* M<hi rend="sup">rs</hi> Ann Hargrave</item>
+                  <item>* M<hi rend="sup">rs</hi> Mary Hobby</item>
+                  <item>* M<hi rend="sup">r</hi> John Heathcote</item>
+                  <item>* M<hi rend="sup">r</hi> William Humfreys</item>
+                  <item>* M<hi rend="sup">r</hi> Peter Huſſey</item>
+                  <item>* M<hi rend="sup">r</hi> Andrew Howard</item>
+                  <item>* M<hi rend="sup">r</hi> William Hickman</item>
+                  <item>* M<hi rend="sup">r</hi> Benjamin Hill</item>
+                  <item>* M<hi rend="sup">r</hi> Guillaume Heroward De Moyſtelles</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Hodſon</item>
+                  <item>* M<hi rend="sup">r</hi> John Hibbert</item>
+                  <item>* M<hi rend="sup">r</hi> John Hall</item>
+                  <item>* M<hi rend="sup">r</hi> Richard Hamond</item>
+                  <item>* M<hi rend="sup">r</hi> Robert Harbin</item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Holcombe</item>
+                  <item>* M<hi rend="sup">r</hi> William Hamond</item>
+                  <item>* M<hi rend="sup">rs</hi> Hannah Howard</item>
+                  <item>* M<hi rend="sup">r</hi> Edward Hancocke</item>
+                  <item>* M<hi rend="sup">r</hi> James Hunter</item>
+                  <item>* M<hi rend="sup">r</hi> Marc Huguetan</item>
+                  <item>* M<hi rend="sup">rs</hi> Margaret Howe</item>
+                  <item>Francis <hi>Lord</hi> Hawley</item>
+                  <item>
+                     <hi>The Lady</hi> Rebecca Herbert</item>
+                  <item>
+                     <hi>Sir</hi> John Hawles</item>
+                  <item>
+                     <hi>Sir</hi> William Honywood <hi>Bar.</hi>
+                  </item>
+                  <item>William Hallifax, <hi>D. D.</hi>
+                  </item>
+                  <item>John Hearne, <hi>D. D.</hi>
+                  </item>
+                  <item>Walter Harris <hi>M. D.</hi>
+                  </item>
+                  <item>Rowland Hunt <hi>Eſq;</hi>
+                  </item>
+                  <item>Edward Horſman <hi>Eſq;</hi>
+                  </item>
+                  <item>Wynne Houblon <hi>Eſq;</hi>
+                  </item>
+                  <item>Thomas Hoby <hi>Eſq; in truſt</hi>
+                  </item>
+                  <item>Thomas Hodges <hi>Eſq;</hi>
+                  </item>
+                  <item>Thomas Harley <hi>Eſq;</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Richard Hughes</item>
+                  <item>M<hi rend="sup">r</hi> Philip Helbut</item>
+                  <item>M<hi rend="sup">r</hi> Robert Haskey</item>
+                  <item>M<hi rend="sup">r</hi> Benjamin Hatley</item>
+                  <item>M<hi rend="sup">r</hi> Lionell Herne</item>
+                  <item>M<hi rend="sup">r</hi> Benjamin Hooper</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Hartopp</item>
+                  <item>M<hi rend="sup">rs</hi> Catherine Hood</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Hiller</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Hariſon</item>
+                  <item>M<hi rend="sup">r</hi> Henry Heſs</item>
+                  <item>M<hi rend="sup">r</hi> John Hartcliffe</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Hobbs</item>
+                  <item>M<hi rend="sup">r</hi> William Hadden</item>
+                  <item>M<hi rend="sup">r</hi> Charles Harris</item>
+                  <item>M<hi rend="sup">r</hi> Eduardt Hobbema</item>
+                  <item>M<hi rend="sup">r</hi> John Havet</item>
+                  <item>M<hi rend="sup">r</hi> Robert Holt</item>
+                  <item>M<hi rend="sup">r</hi> William Hall</item>
+                  <item>M<hi rend="sup">rs</hi> Jane Harvey</item>
+                  <item>M<hi rend="sup">r</hi> Henry Harbin</item>
+                  <item>M<hi rend="sup">r</hi> Hugh Horton</item>
+                  <item>M<hi rend="sup">r</hi> Robert Hall</item>
+                  <item>M<hi rend="sup">r</hi> Charles Hopton</item>
+                  <item>M<hi rend="sup">r</hi> Humphry Hackſhaw</item>
+                  <item>M<hi rend="sup">rs</hi> Jane Huſſey</item>
+                  <item>M<hi rend="sup">r</hi> Peter Haynes</item>
+                  <item>M<hi rend="sup">r</hi> Nicholas Hawkins</item>
+                  <item>M<hi rend="sup">r</hi> John Hallungius</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Head</item>
+                  <item>M<hi rend="sup">r</hi> William Harding</item>
+                  <item>M<hi rend="sup">rs</hi> Margaret Hedges</item>
+                  <item>M<hi rend="sup">r</hi> John Hill</item>
+                  <item>M<hi rend="sup">r</hi> John Hopkins</item>
+                  <item>M<hi rend="sup">r</hi> Iſaac Honywood <hi>Jun.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Edward Huddle</item>
+                  <item>M<hi rend="sup">r</hi> Edgerton Hanſhaw</item>
+                  <item>M<hi rend="sup">r</hi> Henry Hartwell</item>
+                  <item>M<hi rend="sup">r</hi> Henry Hatton</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Hancocke</item>
+                  <item>M<hi rend="sup">r</hi> Moſes Hartig</item>
+                  <item>M<hi rend="sup">r</hi> John Howe and M<hi rend="sup">r</hi>N cholas Opie <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Andrew Hopegood</item>
+                  <item>M<hi rend="sup">r</hi> William Hanſley</item>
+                  <item>M<hi rend="sup">r</hi> William Hocker</item>
+                  <item>M<hi rend="sup">r</hi> Henry Houſer</item>
+                  <item>M<hi rend="sup">r</hi> Francis Heywood</item>
+                  <item>M<hi rend="sup">r</hi> James Houblon <hi>in Tru<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Edward Haberfield</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Harris</item>
+                  <item>M<hi rend="sup">r</hi> Iſaac Hoguel</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Harris</item>
+                  <item>M<hi rend="sup">r</hi> Richard Harris</item>
+                  <item>M<hi rend="sup">r</hi> John Harcourt</item>
+                  <item>M<hi rend="sup">r</hi> William Hooker</item>
+                  <item>M<hi rend="sup">r</hi> Nathanael Hunt</item>
+                  <item>M<hi rend="sup">r</hi> Urban Hall</item>
+                  <item>M<hi rend="sup">r</hi> Richard Harris</item>
+                  <item>M<hi rend="sup">r</hi> Robert Halſted</item>
+                  <item>M<hi rend="sup">r</hi> James Hunt</item>
+                  <item>M<hi rend="sup">r</hi> Henry Hall</item>
+                  <item>M<hi rend="sup">r</hi> Richard Hill</item>
+                  <item>M<hi rend="sup">rs</hi> Sarah Houblon</item>
+                  <item>Mr<hi rend="sup">s</hi> Mary Hawkins</item>
+                  <item>M<hi rend="sup">r</hi> Michael Harbort <hi>dec.</hi>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Eleanor Heathfeild</item>
+                  <item>M<hi rend="sup">r</hi> John Hobbs</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Humphreys</item>
+                  <item>M<hi rend="sup">r</hi> Robert Horton</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Hudſon</item>
+                  <item>Mr Joſeph Hagger</item>
+                  <item>M<hi rend="sup">r</hi> Charles Hales</item>
+                  <item>M<hi rend="sup">rs</hi> Jane Hodges</item>
+                  <item>M<hi rend="sup">r</hi> Walter Hawys</item>
+                  <item>M<hi rend="sup">r</hi> Robert Harington</item>
+                  <item>M<hi rend="sup">r</hi> John Hollingberry</item>
+                  <item>M<hi rend="sup">r</hi> William Hindmer</item>
+                  <item>M<hi rend="sup">r</hi> Henry Hale</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Hartley</item>
+                  <item>M<hi rend="sup">r</hi> John Hawkins</item>
+                  <item>M<hi rend="sup">r</hi> John Holland</item>
+                  <item>M<hi rend="sup">r</hi> John Hoole</item>
+                  <item>M<hi rend="sup">r</hi> Mordecai Hewet</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Hope</item>
+                  <item>M<hi rend="sup">rs</hi> Sarah Howard</item>
+                  <item>
+                     <hi>Capt.</hi> John Hatley</item>
+                  <item>M<hi rend="sup">r</hi> William Hydes</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Heames</item>
+                  <item>M<hi rend="sup">rs</hi> Renea Heames</item>
+                  <item>M<hi rend="sup">r</hi> James Harding</item>
+                  <item>M<hi rend="sup">r</hi> John Hazellwood</item>
+                  <item>M<hi rend="sup">r</hi> Henry Horton</item>
+                  <item>M<hi rend="sup">r</hi> Peter Harvy</item>
+                  <item>M<hi rend="sup">r</hi> James Hunt</item>
+               </list>
+               <list>
+                  <head>I.</head>
+                  <item>**** M<hi rend="sup">r</hi> Peter Joye</item>
+                  <item>*** M<hi rend="sup">r</hi> Jonathan Joyner</item>
+                  <item>** <hi>Sir</hi> Theodore Janſſen</item>
+                  <item>** Henry Ireton <hi>Eſq;</hi>
+                  </item>
+                  <item>* <hi>Col.</hi> Joſeph Jorye</item>
+                  <item>* <hi>Capt.</hi> John Jennings</item>
+                  <item>* Mr William Jollife <hi>Junio<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> George Jarvis</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Juxon</item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Jeake</item>
+                  <item>* M<hi rend="sup">r</hi> John Jenner</item>
+                  <item>* M<hi rend="sup">r</hi> Pell Jones</item>
+                  <item>* M<hi rend="sup">r</hi> Richard Iles</item>
+                  <item>* M<hi rend="sup">rs</hi> Ann Ingram</item>
+                  <pb n="5" facs="tcp:37497:3"/>
+                  <item>
+                     <hi>The Honble.</hi> M<hi rend="sup">rs</hi> Ann Jollife</item>
+                  <item>Edward Jauncey <hi>Eſq;</hi>
+                  </item>
+                  <item>Strange Jocelyn, <hi>Eſq;</hi>
+                  </item>
+                  <item>William James, <hi>Eſq;</hi>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Eſther Jurin</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Jeffery</item>
+                  <item>M<hi rend="sup">r</hi> Nathaniel Jeſſon</item>
+                  <item>Mr Joſhua Iremonger</item>
+                  <item>M<hi rend="sup">r</hi> Francis Jackſon</item>
+                  <item>M<hi rend="sup">r</hi> Edward Juſtice</item>
+                  <item>Mr John Jones <hi>deceſ.</hi>
+                  </item>
+                  <item>Mr Gilbert Jnnes</item>
+                  <item>Henry James <hi>D. D.</hi>
+                  </item>
+                  <item>Mr Samuel Jones</item>
+                  <item>M<hi rend="sup">r</hi> Henry Jones</item>
+                  <item>M<hi rend="sup">r</hi> John Ive</item>
+                  <item>M<hi rend="sup">r</hi> Philip Jackſon</item>
+                  <item>M<hi rend="sup">r</hi> Henry Johnſon</item>
+                  <item>M<hi rend="sup">r</hi> Nehemiah Ingram</item>
+                  <item>Mr Chriſtopher Jeaffreſon</item>
+                  <item>Mr Roger Jones, <hi>in Truſt.</hi>
+                  </item>
+                  <item>Mr Thomas Jenney</item>
+                  <item>M<hi rend="sup">r</hi> Benjamin James</item>
+                  <item>M<hi rend="sup">r</hi> Samuel James</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Jeve</item>
+                  <item>M<hi rend="sup">rs</hi> Judith Jaqueau</item>
+                  <item>M<hi rend="sup">rs</hi> Elizbeth Juyce</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Jackſon</item>
+                  <item>M<hi rend="sup">r</hi> John Jekyll, <hi>in Truſt.</hi>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Jeanne Juliot</item>
+                  <item>M<hi rend="sup">r</hi> Michael de la Juganniere</item>
+                  <item>M<hi rend="sup">rs</hi> Priſcilla Jeffreys</item>
+                  <item>M<hi rend="sup">r</hi> Matthew Iremonger</item>
+                  <item>M<hi rend="sup">r</hi> John Iles</item>
+                  <item>M<hi rend="sup">rs</hi> Sarah Jobber</item>
+               </list>
+               <list>
+                  <head>K.</head>
+                  <item>** John Kenrick <hi>Eſq;</hi>
+                  </item>
+                  <item>* <hi>The Honourable Col.</hi> James Kendall.</item>
+                  <item>* <hi>Sir</hi> Edmund King</item>
+                  <item>* Peter King <hi>Eſq;</hi>
+                  </item>
+                  <item>* Charles Killigrew <hi>Eſq;</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> William Knight</item>
+                  <item>* M<hi rend="sup">r</hi> Matthew Kirwood</item>
+                  <item>* M<hi rend="sup">r</hi> Richard Keate</item>
+                  <item>* M<hi rend="sup">r</hi> Maurice Kay</item>
+                  <item>* M<hi rend="sup">r</hi> Nicolas Knowles, <hi>and</hi> Robert Briſtow <hi>Jun. Eſq; in Truſt.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">rs</hi> Mary Kingſton</item>
+                  <item>
+                     <hi>Col.</hi> Robert Killigrew</item>
+                  <item>
+                     <hi>Col.</hi> Thomas King</item>
+                  <item>William Kenrick <hi>Eſq;</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Peter Kerſteman</item>
+                  <item>M<hi rend="sup">r</hi> John Knowles</item>
+                  <item>M<hi rend="sup">r</hi> Walter Kent</item>
+                  <item>M<hi rend="sup">r</hi> Robert Kyrby</item>
+                  <item>M<hi rend="sup">r</hi> Edward Killmain</item>
+                  <item>M<hi rend="sup">rs</hi> Judith Kifford</item>
+                  <item>M<hi rend="sup">r</hi> Maurice King</item>
+                  <item>Arthur Kay <hi>D. D.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Henry Keates</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Kirke</item>
+                  <item>M<hi rend="sup">r</hi> Lucy Knightley</item>
+                  <item>M<hi rend="sup">r</hi> Iſrael Keynton</item>
+                  <item>Mr William Kent</item>
+                  <item>M<hi rend="sup">r</hi> James Kirton</item>
+                  <item>M<hi rend="sup">rs</hi> Hannah Keling</item>
+                  <item>M<hi rend="sup">rs</hi> Lucy Kekewich</item>
+                  <item>M<hi rend="sup">rs</hi> Martha Knevett</item>
+                  <item>M<hi rend="sup">rs</hi> Margaret Kecke</item>
+               </list>
+               <list>
+                  <head>L.</head>
+                  <item>** Samuel Lethieullier, <hi>Eſq;</hi>
+                  </item>
+                  <item>** Ditto, <hi>in Truſt</hi>
+                  </item>
+                  <item>** M<hi rend="sup">r</hi> William Lethieullier</item>
+                  <item>** M<hi rend="sup">r</hi> John Lordell</item>
+                  <item>** M<hi rend="sup">r</hi> Ralph Lane</item>
+                  <item>** M<hi rend="sup">r</hi> Peter Lombard</item>
+                  <item>** <hi>His Grace the Duke of</hi> Leeds</item>
+                  <item>*** <hi>Sir</hi> Richard Levett</item>
+                  <item>*** Thomas Lake, <hi>Eſq;</hi>
+                  </item>
+                  <item>*** M<hi rend="sup">r</hi> Benjamin Lordell</item>
+                  <item>*** M<hi rend="sup">r</hi> Samuel Lordell</item>
+                  <item>** <hi>Sir</hi> Roger Langley, <hi>Bar.</hi>
+                  </item>
+                  <item>** <hi>Sir</hi> Walter Long, <hi>Bar.</hi>
+                  </item>
+                  <item>** <hi>Dame</hi> Jane Lethieullier</item>
+                  <item>** Edward Lloyd, <hi>Eſq;</hi>
+                  </item>
+                  <item>** Peter Lordell</item>
+                  <item>** James Lever</item>
+                  <item>* <hi>The Right Honourable</hi> Wil<g ref="char:EOLhyphen"/>liam <hi>Lord</hi> Lempſter</item>
+                  <item>* <hi>Sir</hi> James Leſlie</item>
+                  <item>* <hi>Dame</hi> Jane Lethieullier, <hi>in Truſt</hi>
+                  </item>
+                  <item>* <hi>The Lady</hi> Elizabeth Lloyd</item>
+                  <item>* Richard Leach, <hi>D. D.</hi>
+                  </item>
+                  <item>* Thomas Lant, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Thomas Liſter, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Joſhua Lomax, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Richard Lydall, <hi>Eſq;</hi>
+                  </item>
+                  <item>* M<hi rend="sup">rs</hi> Suſanna Lillingſton</item>
+                  <item>* M<hi rend="sup">r</hi> Luke Lewi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</item>
+                  <item>* M<hi rend="sup">r</hi> Nathaniel Lacey</item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Lock</item>
+                  <item>* M<hi rend="sup">rs</hi> Sarah Lytcott</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Lock</item>
+                  <item>* M<hi rend="sup">r</hi> John Lambert</item>
+                  <item>* M<hi rend="sup">rs</hi> Marie Lowther</item>
+                  <item>* <hi>Capt.</hi> Edmund Loades</item>
+                  <item>* <hi>Capt.</hi> Richard Leſtock</item>
+                  <item>* M<hi rend="sup">r</hi> John Lloyd, <hi>and</hi> M<hi rend="sup">r</hi> Thomas Jones</item>
+                  <item>* M<hi rend="sup">r</hi> Chriſtopher Lethieullier</item>
+                  <item>* M<hi rend="sup">r</hi> John Locke</item>
+                  <item>* M<hi rend="sup">rs</hi> Mary Lewin</item>
+                  <item>* M<hi rend="sup">rs</hi> Mary Lowther</item>
+                  <item>* M<hi rend="sup">r</hi> John Lade</item>
+                  <item>* M<hi rend="sup">r</hi> James Lanſdown</item>
+                  <item>* M<hi rend="sup">r</hi> John Lee</item>
+                  <item>* Mr Jacob Larwood, <hi>Senior</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> John Lloyd</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Lane</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Lockington</item>
+                  <item>* M<hi rend="sup">r</hi> Richard Lucas</item>
+                  <item>* M<hi rend="sup">r</hi> Robert Liddell</item>
+                  <item>* M<hi rend="sup">rs</hi> Suſannah Leighton</item>
+                  <item>* Mr Peniſton Lamb</item>
+                  <item>
+                     <hi>Sir</hi> William Lytten</item>
+                  <item>
+                     <hi>Dame</hi> Jane Lethieullier, <hi>in Truſt</hi>
+                  </item>
+                  <item>
+                     <hi>Maj.</hi> Nathaniel Long</item>
+                  <item>Matthew Lant, <hi>Eſq;</hi>
+                  </item>
+                  <item>John Latton, <hi>Eſq;</hi>
+                  </item>
+                  <item>Samuel Lethieullier, <hi>Eſq; in Truſt</hi>
+                  </item>
+                  <item>Thomas Longe, <hi>Eſq;</hi>
+                  </item>
+                  <item>Patrick Lamb, <hi>Eſq;</hi>
+                  </item>
+                  <item>Oliver Long, <hi>Eſq;</hi>
+                  </item>
+                  <item>Richard Leveſon, <hi>Eſq;</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> John Lee</item>
+                  <item>M<hi rend="sup">r</hi> Chriſtopher Lethieul<g ref="char:EOLhyphen"/>lier, <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Elias Lindo</item>
+                  <item>M<hi rend="sup">r</hi> John de Lengaigne</item>
+                  <item>M<hi rend="sup">rs</hi> Frances Looker</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Lowe</item>
+                  <item>M<hi rend="sup">r</hi> Roger Lacy</item>
+                  <item>M<hi rend="sup">rs</hi> Sarak Locke</item>
+                  <item>M<hi rend="sup">r</hi> Gofrey Lee</item>
+                  <item>
+                     <hi>Capt.</hi> Thomas Ley</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Loomes</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Lowe</item>
+                  <item>M<hi rend="sup">rs</hi> Magdalen Leclere</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Lloyd</item>
+                  <item>M<hi rend="sup">rs</hi> Anna Lloyd</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Lethieullier</item>
+                  <item>M<hi rend="sup">r</hi> Benjamin Lethieullier</item>
+                  <item>M<hi rend="sup">rs</hi> Katherine Frinſeis Grenmare Lorren, <hi>deceaſ.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> John Livingſtone</item>
+                  <item>M<hi rend="sup">rs</hi> Rebecca London</item>
+                  <item>M<hi rend="sup">r</hi> Edward Lewis</item>
+                  <item>M<hi rend="sup">rs</hi> Mary <hi>and</hi> M<hi rend="sup">rs</hi> Jane Lemon</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Lock, <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> David Laurens</item>
+                  <item>M<hi rend="sup">r</hi> John Longbothom</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Lawrence</item>
+                  <item>M<hi rend="sup">r</hi> Joſhua Luſh</item>
+                  <item>M<hi rend="sup">r</hi> Robert Liſter</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Lyle</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Lee</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Lapley</item>
+                  <item>M<hi rend="sup">r</hi> Simon Lynch</item>
+                  <item>M<hi rend="sup">r</hi> Henry Linnet</item>
+                  <item>M<hi rend="sup">rs</hi> Alice Lawſon</item>
+                  <item>M<hi rend="sup">r</hi> Robert Lancaſhire</item>
+                  <item>M<hi rend="sup">r</hi> Henry Lambert</item>
+                  <item>M<hi rend="sup">r</hi> Henry Leightendoller</item>
+                  <item>M<hi rend="sup">r</hi> Nicholas de Louvigny</item>
+                  <item>M<hi rend="sup">r</hi> William Lawley, <hi>dec.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Abraham Lethieullier</item>
+                  <item>M<hi rend="sup">r</hi> Caleb Lowdham</item>
+                  <item>M<hi rend="sup">r</hi> Daniel L'heureux</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Lucy</item>
+                  <item>M<hi rend="sup">r</hi> Steven Leimbach</item>
+                  <item>M<hi rend="sup">r</hi> Humphry Lees</item>
+                  <item>M<hi rend="sup">r</hi> James Lizy</item>
+                  <item>M<hi rend="sup">r</hi> Benjamin Levy</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Leigh</item>
+                  <item>M<hi rend="sup">r</hi> Alexander Lindo</item>
+                  <item>M<hi rend="sup">r</hi> George Lugg</item>
+               </list>
+               <list>
+                  <head>M.</head>
+                  <item>**** <hi>THe Lady</hi> Ann Maſon</item>
+                  <item>**** William Milman, <hi>Eſq;</hi>
+                  </item>
+                  <item>**** Salomon de Medìna, <hi>Eſq;</hi>
+                  </item>
+                  <item>**** Thomas Maule, <hi>Eſq;</hi>
+                  </item>
+                  <item>**** M<hi rend="sup">r</hi> Robert Marſhall</item>
+                  <item>**** M<hi rend="sup">r</hi> Alexander Merreall</item>
+                  <item>*** M<hi rend="sup">r</hi> William Maſon</item>
+                  <item>*** M<hi rend="sup">r</hi> John Morton</item>
+                  <item>*** M<hi rend="sup">r</hi> Jacob Teixeira de Mattos</item>
+                  <item>** <hi>The Right Honourable</hi> Ralph <hi>Earl of</hi> Mountagu</item>
+                  <item>** Thomas Miller</item>
+                  <item>** M<hi rend="sup">r</hi> Samuel Moyer</item>
+                  <item>** M<hi rend="sup">rs</hi> Jane Maynard</item>
+                  <item>* <hi>The Honourable Lady</hi> Eliza<g ref="char:EOLhyphen"/>beth Mountague</item>
+                  <item>* <hi>Major General</hi> de la Melo<g ref="char:EOLhyphen"/>niere</item>
+                  <item>* <hi>Sir</hi> Humphry Mackworth</item>
+                  <item>* <hi>Sir</hi> Robert Marſham</item>
+                  <item>* Richard Middlemore, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Harcourt Maſter, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Henry Martyn, <hi>Eſq;</hi>
+                  </item>
+                  <item>* David Mitchell, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Ralph Marſhall, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Anthony Meeke, <hi>Eſq;</hi>
+                  </item>
+                  <item>* John Mapletoft, <hi>D. D.</hi>
+                  </item>
+                  <item>* Francis Morley, <hi>D. D.</hi>
+                  </item>
+                  <item>* Charles Morton, <hi>M. D.</hi>
+                  </item>
+                  <item>* Ferdinando Mendez, <hi>M. D.</hi>
+                  </item>
+                  <item>* John Manſon, <hi>A. M.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> William Murray</item>
+                  <item>* M<hi rend="sup">r</hi> Nicholas de Monceau De Leſtang</item>
+                  <item>* M<hi rend="sup">rs</hi> Katherine Marſhall</item>
+                  <item>* M<hi rend="sup">r</hi> Antonie de Maſſannes</item>
+                  <item>* M<hi rend="sup">r</hi> Nathaniel Mickle<g ref="char:EOLhyphen"/>thwaite</item>
+                  <item>* M<hi rend="sup">r</hi> William Mead, <hi>Junior</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> George Meggott</item>
+                  <item>* M<hi rend="sup">r</hi> Matthew Mead</item>
+                  <item>* M<hi rend="sup">r</hi> Jacob Marſom</item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Manſhip</item>
+                  <item>* M<hi rend="sup">r</hi> John Man</item>
+                  <item>* M<hi rend="sup">r</hi> William Marriott</item>
+                  <item>* M<hi rend="sup">rs</hi> Elizabeth Mildmay</item>
+                  <item>* M<hi rend="sup">r</hi> John Morſe, <hi>in Truſt</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Peter Mareſcoe</item>
+                  <item>* M<hi rend="sup">r</hi> William Mitchell</item>
+                  <item>* M<hi rend="sup">r</hi> Philip Martins</item>
+                  <item>* M<hi rend="sup">r</hi> Richad Mart</item>
+                  <item>* M<hi rend="sup">r</hi> Robert Mitchel</item>
+                  <item>* M<hi rend="sup">rs</hi> Jane Mildmay</item>
+                  <item>* M<hi rend="sup">r</hi> Richard Marſh</item>
+                  <item>* M<hi rend="sup">rs</hi> Dorothy Mucklowe</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Man, <hi>Senior</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Man, <hi>Junior</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Richard Malcher</item>
+                  <item>* M<hi rend="sup">r</hi> Richard Milner, <hi>and</hi> M<hi rend="sup">r</hi> Edward Milles</item>
+                  <item>* M<hi rend="sup">r</hi> Richard Maſteres</item>
+                  <item>* M<hi rend="sup">r</hi> Nenyon Maſters</item>
+                  <item>* M<hi rend="sup">r</hi> William Maſemore</item>
+                  <item>* M<hi rend="sup">r</hi> Robert Maning</item>
+                  <item>* M<hi rend="sup">r</hi> William Marriott</item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Mayne</item>
+                  <item>* M<hi rend="sup">rs</hi> Elizabeth Maneſty</item>
+                  <item>* M<hi rend="sup">rs</hi> Alice Mynne</item>
+                  <item>* M<hi rend="sup">r</hi> Charles Moreau</item>
+                  <item>* M<hi rend="sup">r</hi> Richard Meriwether</item>
+                  <item>* M<hi rend="sup">r</hi> John Meſnard</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Mercer</item>
+                  <item>
+                     <hi>The Lady</hi> Sarah Mathews</item>
+                  <item>Charles Muſters, <hi>Eſq;</hi>
+                  </item>
+                  <item>John Milner, <hi>Eſq;</hi>
+                  </item>
+                  <item>John Machel, <hi>Eſq;</hi>
+                  </item>
+                  <item>Richard Mulys, <hi>Eſq;</hi>
+                  </item>
+                  <item>Jonn Morrice, <hi>Eſq;</hi>
+                  </item>
+                  <item>John Maxwell, <hi>Eſq;</hi>
+                  </item>
+                  <item>Charles Muſters, <hi>Eſq; in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> James Mead</item>
+                  <item>M<hi rend="sup">rs</hi> Elillabeth Marſh</item>
+                  <item>M<hi rend="sup">r</hi> James Markwick, <hi>Sen.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Robert Maidſtone</item>
+                  <item>M<hi rend="sup">r</hi> Abraham Macaré</item>
+                  <item>M<hi rend="sup">r</hi> Matthieu Morain</item>
+                  <item>M<hi rend="sup">r</hi> George Mathew</item>
+                  <item>M<hi rend="sup">r</hi> Benjamin Munn</item>
+                  <item>M<hi rend="sup">r</hi> George Martin</item>
+                  <item>M<hi rend="sup">rs</hi> Lucy Mildmay</item>
+                  <item>M<hi rend="sup">rs</hi> Ann Meſſenger</item>
+                  <item>M<hi rend="sup">r</hi> William More</item>
+                  <item>M<hi rend="sup">r</hi> Richard Moſtyn</item>
+                  <item>M<hi rend="sup">rs</hi> Mildred Michel</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Maynard, <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Matthieu Morain, <hi>and</hi> M<hi rend="sup">r</hi> Michel Hue</item>
+                  <item>M<hi rend="sup">r</hi> Matthieu Morain, <hi>and</hi> M<hi rend="sup">r</hi> Nicholas Delaunay</item>
+                  <item>M<hi rend="sup">r</hi> Gilbert Mace</item>
+                  <item>M<hi rend="sup">rs</hi> Dorothy Maſon</item>
+                  <item>M<hi rend="sup">rs</hi> Sarah Major</item>
+                  <item>M<hi rend="sup">r</hi> John Munford</item>
+                  <item>M<hi rend="sup">r</hi> Auguſtine Munford</item>
+                  <item>M<hi rend="sup">r</hi> Cornelius Macham</item>
+                  <item>M<hi rend="sup">r</hi> Abraham Monfort</item>
+                  <item>M<hi rend="sup">r</hi> William Mayne</item>
+                  <item>M<hi rend="sup">r</hi> James Mennell</item>
+                  <item>M<hi rend="sup">rs</hi> Joan Maſon</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Mills</item>
+                  <item>M<hi rend="sup">r</hi> Henry Medlicott</item>
+                  <item>M<hi rend="sup">r</hi> John Mayow</item>
+                  <item>M<hi rend="sup">r</hi> Philippe Moreau</item>
+                  <item>M<hi rend="sup">r</hi> Daniel Man</item>
+                  <item>M<hi rend="sup">rs</hi> Ann Moulton</item>
+                  <item>M<hi rend="sup">r</hi> James Martin</item>
+                  <item>M<hi rend="sup">r</hi> James Moulton</item>
+                  <item>M<hi rend="sup">r</hi> Lewis Morgan</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Mead, <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Johanna Maſters</item>
+                  <item>M<hi rend="sup">r</hi> Richard Martyn</item>
+                  <item>M<hi rend="sup">rs</hi> Ann Morelli</item>
+                  <item>M<hi rend="sup">rs</hi> Hannah Medbery</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Milton</item>
+                  <item>M<hi rend="sup">rs</hi> Hannah Medbery, <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> John Maſon</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Major</item>
+                  <item>M<hi rend="sup">rs</hi> Ann Man</item>
+                  <item>M<hi rend="sup">r</hi> Eſtienne Le Monnier</item>
+                  <pb n="6" facs="tcp:37497:4"/>
+                  <item>M<hi rend="sup">r</hi> Joſeph Maiſters</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Morſe</item>
+                  <item>M<hi rend="sup">r</hi> John Maxey</item>
+                  <item>M<hi rend="sup">r</hi> Laſcells Metcalfe</item>
+                  <item>M<hi rend="sup">r</hi> John Millington</item>
+                  <item>M<hi rend="sup">r</hi> Pantalio Rodriguez Mogadouro</item>
+                  <item>M<hi rend="sup">r</hi> Nathaniel Maber</item>
+                  <item>M<hi rend="sup">rs</hi> Ann Moſs</item>
+                  <item>M<hi rend="sup">r</hi> Nathanael Maſon</item>
+                  <item>M<hi rend="sup">r</hi> Richard Milner</item>
+                  <item>M<hi rend="sup">rs</hi> Mary de Monceau</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Murrey</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Mountfort</item>
+                  <item>M<hi rend="sup">r</hi> John Mallory</item>
+                  <item>M<hi rend="sup">r</hi> William Maſter</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Marchant</item>
+                  <item>M<hi rend="sup">r</hi> James Matthews</item>
+                  <item>M<hi rend="sup">r</hi> Adrian Moore</item>
+                  <item>M<hi rend="sup">rs</hi> Jennet Mowat</item>
+                  <item>M<hi rend="sup">r</hi> William Maiſter</item>
+                  <item>M<hi rend="sup">r</hi> Robert Michel</item>
+               </list>
+               <list>
+                  <head>N</head>
+                  <item>**** MR William Nepveu</item>
+                  <item>**** M<hi rend="sup">r</hi> Iſaac Fernandes Nunes</item>
+                  <item>** John Nicoll, <hi>Eſq;</hi>
+                  </item>
+                  <item>** Richard Nicoll, <hi>Eſq;</hi>
+                  </item>
+                  <item>* <hi>Sir</hi> Richard Newdigate, <hi>Ba.</hi>
+                  </item>
+                  <item>* <hi>Sir</hi> Godard Nelthorpe, <hi>Ba.</hi>
+                  </item>
+                  <item>* John Nicoll, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Daniel Nicoll, <hi>Eſq;</hi>
+                  </item>
+                  <item>* John Nuthall, <hi>Eſq;</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Philip Nisbett</item>
+                  <item>* M<hi rend="sup">rs</hi> Delitia Nelſon</item>
+                  <item>* M<hi rend="sup">r</hi> William Nurſe</item>
+                  <item>* M<hi rend="sup">r</hi> William Nicholls</item>
+                  <item>* M<hi rend="sup">r</hi> John Norton</item>
+                  <item>* M<hi rend="sup">rs</hi> Elizabeth Newton</item>
+                  <item>* M<hi rend="sup">r</hi> Charles Norton</item>
+                  <item>* M<hi rend="sup">rs</hi> Martha Newton</item>
+                  <item>* M<hi rend="sup">rs</hi> Ann Nott</item>
+                  <item>* M<hi rend="sup">r</hi> Peter Nepueu</item>
+                  <item>* M<hi rend="sup">r</hi> Moſes Iſrael Nunes</item>
+                  <item>
+                     <hi>The Right Honorable</hi> Mary, <hi>Counteſs Dowager of</hi> Northampton</item>
+                  <item>John Newey, <hi>M. A.</hi>
+                  </item>
+                  <item>David Nairne, <hi>Eſq;</hi>
+                  </item>
+                  <item>Edward Nutt, <hi>Eſq;</hi>
+                  </item>
+                  <item>Edward Nicholas, <hi>Eſq;</hi>
+                  </item>
+                  <item>John Nicoll, <hi>Eſq; in Truſt</hi>
+                  </item>
+                  <item>George Nott, <hi>Eſq;</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Peter Nepueu, <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> George Noble</item>
+                  <item>M<hi rend="sup">r</hi> Francis Nixon</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Norris</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Nicoll</item>
+                  <item>M<hi rend="sup">r</hi> Stephen Noguier</item>
+                  <item>M<hi rend="sup">rs</hi> Abigail Nichols</item>
+                  <item>M<hi rend="sup">r</hi> Peter Nepueu, <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> William Noble</item>
+                  <item>M<hi rend="sup">r</hi> Culverwell Needler</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Norris</item>
+                  <item>M<hi rend="sup">r</hi> Robert Newton, <hi>a Mi<g ref="char:EOLhyphen"/>nor</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Edward Newton, <hi>a Mi<g ref="char:EOLhyphen"/>nor</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Thomas Newton, <hi>a Minor</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> John Newton, <hi>a Minor</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Richard Naſh</item>
+                  <item>M<hi rend="sup">r</hi> John Newman</item>
+                  <item>M<hi rend="sup">r</hi> Henrick Nartloo</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Napleton</item>
+                  <item>M<hi rend="sup">rs</hi> Jane Nicoll</item>
+                  <item>M<hi rend="sup">r</hi> Peter Newcome</item>
+                  <item>M<hi rend="sup">r</hi> Jonathan Newman</item>
+                  <item>
+                     <hi>The Heirs of</hi> M<hi rend="sup">r</hi> Peter de Neufville</item>
+                  <item>M<hi rend="sup">r</hi> Richard Nixon</item>
+                  <item>M<hi rend="sup">r</hi> Martin Newſtreet</item>
+                  <item>M<hi rend="sup">r</hi> John Newland</item>
+                  <item>M<hi rend="sup">r</hi> Henry Nurſe</item>
+                  <item>M<hi rend="sup">rs</hi> Anna Noore</item>
+                  <item>M<hi rend="sup">r</hi> John Nicholas</item>
+               </list>
+               <list>
+                  <head>O</head>
+                  <item>** BEenjamin Overton, <hi>Eſq;</hi>
+                  </item>
+                  <item>* <hi>Sir</hi> James Oxenden, <hi>Bar.</hi>
+                  </item>
+                  <item>* D<hi rend="sup">r</hi> George Oxenden</item>
+                  <item>* D<hi rend="sup">r</hi> George Oxenden <hi>and</hi> M<hi rend="sup">r</hi> Charles Battely, <hi>in Truſt</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Herman Olmius</item>
+                  <item>* M<hi rend="sup">r</hi> Daniel Oley</item>
+                  <item>* M<hi rend="sup">r</hi> George Orlebar</item>
+                  <item>* M<hi rend="sup">r</hi> Newdigate Owſley</item>
+                  <item>
+                     <hi>Sir</hi> James Oxenden, <hi>Bar. in Truſt</hi>
+                  </item>
+                  <item>
+                     <hi>Coll.</hi> Henry Oxenden</item>
+                  <item>Nicholas Onley, <hi>D. D.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> William Orton</item>
+                  <item>M<hi rend="sup">r</hi> Robert Oldsworth</item>
+                  <item>M<hi rend="sup">r</hi> John Oldner, <hi>a Minor</hi>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Frances Osbalſton</item>
+                  <item>M<hi rend="sup">r</hi> Arthur Otway</item>
+                  <item>M<hi rend="sup">rs</hi> Anne Odell</item>
+                  <item>M<hi rend="sup">rs</hi> Katherine Orfeur</item>
+                  <item>M<hi rend="sup">r</hi> William Oldys</item>
+               </list>
+               <list>
+                  <head>P</head>
+                  <item>**** MR John Paige</item>
+                  <item>**** M<hi rend="sup">r</hi> Jeremiah Powell</item>
+                  <item>**** M<hi rend="sup">r</hi> Richard Perry</item>
+                  <item>**** M<hi rend="sup">r</hi> James Pettit</item>
+                  <item>*** M<hi rend="sup">r</hi> William Proctor</item>
+                  <item>** Robert Pitt, <hi>M. D.</hi>
+                  </item>
+                  <item>** Samuel Powell, <hi>Eſq;</hi>
+                  </item>
+                  <item>** M<hi rend="sup">r</hi> Edward Pettit</item>
+                  <item>** M<hi rend="sup">r</hi> Edward Phillips</item>
+                  <item>** M<hi rend="sup">r</hi> William Payne</item>
+                  <item>** M<hi rend="sup">r</hi> William Perris</item>
+                  <item>* <hi>The Right Honourable</hi> Tho<g ref="char:EOLhyphen"/>mas <hi>Earl of</hi> Pembroke</item>
+                  <item>* <hi>The Honourable</hi> Henry Prieſtman, <hi>Eſq;</hi>
+                  </item>
+                  <item>* <hi>Sir</hi> John Pelham, <hi>Bar.</hi>
+                  </item>
+                  <item>* Samuel Pett, <hi>Eſq; deceaſ.</hi>
+                  </item>
+                  <item>* John Pratt, <hi>Eſq;</hi>
+                  </item>
+                  <item>* John Pollen, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Thomas Papillon, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Thomas Plume, <hi>D. D.</hi>
+                  </item>
+                  <item>* Giles Pooley, <hi>D. D.</hi>
+                  </item>
+                  <item>* Leonard Plukenet, <hi>M. D.</hi>
+                  </item>
+                  <item>* <hi>Coll.</hi> John Plumer</item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Palmer</item>
+                  <item>* M<hi rend="sup">r</hi> Philip Papillon</item>
+                  <item>* M<hi rend="sup">rs</hi> Suſanna Prideaux</item>
+                  <item>* M<hi rend="sup">r</hi> George Porter</item>
+                  <item>* M<hi rend="sup">r</hi> John Peeters</item>
+                  <item>* M<hi rend="sup">r</hi> Henry Phillips</item>
+                  <item>* M<hi rend="sup">r</hi> William Phelps</item>
+                  <item>* M<hi rend="sup">r</hi> Benjamin Pyke</item>
+                  <item>* M<hi rend="sup">r</hi> William Proctor</item>
+                  <item>* M<hi rend="sup">r</hi> Micajah Perry</item>
+                  <item>* M<hi rend="sup">r</hi> Marmaduke Prickett</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Pickard, <hi>Jun.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> John Player</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Pickard</item>
+                  <item>* M<hi rend="sup">rs</hi> Anne Pickard</item>
+                  <item>* M<hi rend="sup">r</hi> Daniel Perkins</item>
+                  <item>* M<hi rend="sup">r</hi> William Phillips</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Parkhurſt</item>
+                  <item>* M<hi rend="sup">r</hi> David Primeroſe</item>
+                  <item>* M<hi rend="sup">r</hi> James Partheriche</item>
+                  <item>* M<hi rend="sup">r</hi> Lewis Prothero</item>
+                  <item>* M<hi rend="sup">r</hi> Edward Parry</item>
+                  <item>* M<hi rend="sup">r</hi> William Preſcott</item>
+                  <item>* M<hi rend="sup">r</hi> Charles Peers</item>
+                  <item>* M<hi rend="sup">r</hi> Iſhaac Portello</item>
+                  <item>* M<hi rend="sup">r</hi> Daniel Pilart, <hi>Jun.</hi>
+                  </item>
+                  <item>Thomas Payne, <hi>Eſq; dec.</hi>
+                  </item>
+                  <item>Humphrey Prideaux, <hi>D. D.</hi>
+                  </item>
+                  <item>John Price, <hi>M. D.</hi>
+                  </item>
+                  <item>Henry Pelham, <hi>Eſq;</hi>
+                  </item>
+                  <item>Thomas Paske, <hi>Eſq;</hi>
+                  </item>
+                  <item>John Paſchall, <hi>Eſq;</hi>
+                  </item>
+                  <item>Francis Pengelly, <hi>Eſq;</hi>
+                  </item>
+                  <item>Robert Pulleyn, <hi>Eſq;</hi>
+                  </item>
+                  <item>Edmond Prideaux, <hi>Eſq;</hi>
+                  </item>
+                  <item>Thomas Pitt, <hi>Eſq;</hi>
+                  </item>
+                  <item>
+                     <hi>Coll.</hi> John Plumer, <hi>in Truſt</hi>
+                  </item>
+                  <item>Charles Pulteney, <hi>Eſq;</hi>
+                  </item>
+                  <item>Gilbert Pikering, <hi>Eſq;</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Richard Povey</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Palmer</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Perkinſon <hi>and</hi> M<hi rend="sup">r</hi> Henry Bedell, <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Thomas Pattle</item>
+                  <item>M<hi rend="sup">r</hi> John Partridge</item>
+                  <item>M<hi rend="sup">r</hi> George Pochin</item>
+                  <item>M<hi rend="sup">r</hi> John Paſmor <hi>and</hi> M<hi rend="sup">rs</hi> Elizabeth Green</item>
+                  <item>M<hi rend="sup">r</hi> William Pierſon</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Prevereau</item>
+                  <item>M<hi rend="sup">r</hi> James Peirce</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Piffe</item>
+                  <item>M<hi rend="sup">r</hi> Chriſtopher Pack</item>
+                  <item>M<hi rend="sup">r</hi> Francis Platt</item>
+                  <item>M<hi rend="sup">r</hi> Nicholas Pickering</item>
+                  <item>M<hi rend="sup">rs</hi> Ann Panter</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Parſons</item>
+                  <item>M<hi rend="sup">r</hi> Michael Poole</item>
+                  <item>M<hi rend="sup">r</hi> Maier Polock</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Pope</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Price</item>
+                  <item>M<hi rend="sup">rs</hi> Sarah Puxty</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Palmer</item>
+                  <item>M<hi rend="sup">r</hi> Peter Parker</item>
+                  <item>M<hi rend="sup">r</hi> Andrew Prince</item>
+                  <item>M<hi rend="sup">r</hi> Edward Parker</item>
+                  <item>M<hi rend="sup">r</hi> Robert Pernell</item>
+                  <item>M<hi rend="sup">r</hi> Andrew Phillips, <hi>Jun.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Robert Pitman</item>
+                  <item>M<hi rend="sup">r</hi> Edward Poulter</item>
+                  <item>M<hi rend="sup">r</hi> John Plumpton</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Phillips</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Pask</item>
+                  <item>M<hi rend="sup">r</hi> Henry Powle</item>
+                  <item>M<hi rend="sup">r</hi> Edward Pincke, <hi>a Minor</hi>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Suſanne Pain</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Parker</item>
+                  <item>M<hi rend="sup">rs</hi> Margaret Petitot</item>
+                  <item>M<hi rend="sup">r</hi> Jonas Proaſt</item>
+                  <item>M<hi rend="sup">r</hi> Arthur Palmer</item>
+                  <item>M<hi rend="sup">r</hi> Francis Du Pratt, <hi>dec.</hi>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth de Pierre pont de Gonneville</item>
+                  <item>M<hi rend="sup">rs</hi> Magdalen Powlet, <hi>dec.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Henry Perris</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Pratt</item>
+                  <item>M<hi rend="sup">r</hi> James Walter Du Paiſy</item>
+                  <item>M<hi rend="sup">r</hi> Robert Patten</item>
+                  <item>M<hi rend="sup">r</hi> George Philips</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Prime</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Partheriche</item>
+                  <item>M<hi rend="sup">r</hi> Richard Partridge</item>
+                  <item>M<hi rend="sup">r</hi> Jonathan Puller</item>
+                  <item>M<hi rend="sup">r</hi> Octavian Pulleyn</item>
+                  <item>M<hi rend="sup">r</hi> Benjamin Parker</item>
+               </list>
+               <list>
+                  <head>Q</head>
+                  <item>MR Joſeph Quaſh</item>
+               </list>
+               <list>
+                  <head>R</head>
+                  <item>**** <hi>SIR</hi> James Reade, <hi>Bar.</hi>
+                  </item>
+                  <item>**** <hi>Sir</hi> Ralph Radcliffe</item>
+                  <item>**** <hi>Sir</hi> Gabriel Roberts</item>
+                  <item>**** John Rudge, <hi>Eſq;</hi>
+                  </item>
+                  <item>**** M<hi rend="sup">r</hi> Robert Raworth</item>
+                  <item>**** M<hi rend="sup">r</hi> Jacob Reynardſon</item>
+                  <item>*** <hi>The Honourable</hi> Edward <hi>Lord</hi> Ruſſel</item>
+                  <item>*** Dame Deborah Robinſon</item>
+                  <item>*** Anthony Rowe, <hi>Eſq;</hi>
+                  </item>
+                  <item>*** M<hi rend="sup">r</hi> Samuel Rawſtorn</item>
+                  <item>** <hi>Sir</hi> Iſaac Rebow</item>
+                  <item>** Samuel Ravenel, <hi>Eſq;</hi>
+                  </item>
+                  <item>** <hi>Capt.</hi> Francis Robinſon</item>
+                  <item>** M<hi rend="sup">r</hi> Samuel Raynolds</item>
+                  <item>** M<hi rend="sup">r</hi> Michael Rolles</item>
+                  <item>** M<hi rend="sup">rs</hi> Anne, Frances <hi>and</hi> Margaret Ralegh</item>
+                  <item>** M<hi rend="sup">r</hi> Peter Reneu</item>
+                  <item>* <hi>Sir</hi> George Rooke</item>
+                  <item>* Richard Rooth, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Tancred Robinſon, <hi>M. D.</hi>
+                  </item>
+                  <item>* Luke Robinſon, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Thomas Railton, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Hillary Reneu, <hi>Eſq;</hi>
+                  </item>
+                  <item>* John de Remy de Montigny <hi>Eſq; in Truſt</hi>
+                  </item>
+                  <item>* <hi>Coll.</hi> Henry Rowe</item>
+                  <item>* <hi>Capt.</hi> Henry Robinſon</item>
+                  <item>* M<hi rend="sup">r</hi> Robert Raworth, <hi>in Truſt</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Anthony Reynolds</item>
+                  <item>* M<hi rend="sup">rs</hi> Mariana Ribot, <hi>alias</hi> Teſtart</item>
+                  <item>* M<hi rend="sup">r</hi> John Ruſſell</item>
+                  <item>* M<hi rend="sup">r</hi> Richard Richardſon</item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Ratcliffe, <hi>dec.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Seth Ratcliffe</item>
+                  <item>* M<hi rend="sup">r</hi> Richard Ryder</item>
+                  <item>* M<hi rend="sup">r</hi> Matthew Raper</item>
+                  <item>* M<hi rend="sup">r</hi> Peter Laroche</item>
+                  <item>* M<hi rend="sup">r</hi> George Robinſon</item>
+                  <item>* M<hi rend="sup">r</hi> Chriſtopher Roſſe</item>
+                  <item>* M<hi rend="sup">r</hi> Chriſtopher Rich</item>
+                  <item>* M<hi rend="sup">r</hi> Elias de Rit</item>
+                  <item>* M<hi rend="sup">r</hi> Joſelyn Roberts</item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Reade</item>
+                  <item>* M<hi rend="sup">r</hi> Simon Rodriguez</item>
+                  <item>* M<hi rend="sup">r</hi> Henry Rhodes</item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Ruſſell</item>
+                  <item>* M<hi rend="sup">r</hi> John Richards</item>
+                  <item>* M<hi rend="sup">r</hi> Richard Ruſſell</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Rutty</item>
+                  <item>* M<hi rend="sup">r</hi> John Round</item>
+                  <item>* M<hi rend="sup">r</hi> Moſes Raper</item>
+                  <item>* M<hi rend="sup">r</hi> Robert Rowland</item>
+                  <item>* M<hi rend="sup">r</hi> Joſiah Ragdale</item>
+                  <item>
+                     <hi>Sir</hi> Gabriel Roberts, <hi>in Truſt</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> William Ruſſell, <hi>Bar.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Gabriel Roberts, <hi>in Truſt</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Paul Rycaut</item>
+                  <item>Dame Mary Radcliffe</item>
+                  <item>John Raſhleigh, <hi>Eſq;</hi>
+                  </item>
+                  <item>Andrew Le Roy, <hi>M. D.</hi>
+                  </item>
+                  <item>John de Remy de Montig<g ref="char:EOLhyphen"/>ny, <hi>Eſq;</hi>
+                  </item>
+                  <item>Ditto, <hi>in Truſt</hi>
+                  </item>
+                  <item>Nathaniel Resbury, <hi>D. D.</hi>
+                  </item>
+                  <item>Timothy Rogers, <hi>A. M.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Peter La Roque</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Rawſtorn</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Read</item>
+                  <item>M<hi rend="sup">r</hi> James Richards</item>
+                  <item>M<hi rend="sup">r</hi> William Richards</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Reynolds</item>
+                  <item>M<hi rend="sup">r</hi> William Richards</item>
+                  <item>M<hi rend="sup">r</hi> John Roche</item>
+                  <item>M<hi rend="sup">rs</hi> Anne Rowledge</item>
+                  <item>M<hi rend="sup">r</hi> Nathanael Ragdall</item>
+                  <item>M<hi rend="sup">r</hi> Henry Roſſer</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Radcliffe</item>
+                  <item>M<hi rend="sup">r</hi> Richard Richmond</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Raper</item>
+                  <item>M<hi rend="sup">r</hi> George Robinſon, <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Jön Richardſon</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Rawlinſon</item>
+                  <item>M<hi rend="sup">r</hi> Robert Ridout</item>
+                  <item>M<hi rend="sup">r</hi> Charles Rampaine</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Rand</item>
+                  <item>M<hi rend="sup">r</hi> Richard Rowdon</item>
+                  <item>M<hi rend="sup">r</hi> William Rooke</item>
+                  <pb n="7" facs="tcp:37497:4"/>
+                  <item>M<hi rend="sup">r</hi> William Rogers</item>
+                  <item>M<hi rend="sup">rs</hi> Anne Redſhaw</item>
+                  <item>M<hi rend="sup">r</hi> John Rogers</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Rudge</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Rayſon</item>
+                  <item>M<hi rend="sup">r</hi> Claude Rondeau</item>
+                  <item>M<hi rend="sup">r</hi> Henry Roberts</item>
+                  <item>M<hi rend="sup">r</hi> Joſhua Richardſon</item>
+               </list>
+               <list>
+                  <head>S</head>
+                  <item>**** <hi>THE Right Honourable</hi> Mainhardt <hi>Duke of</hi> Schonburg, and Leinſter</item>
+                  <item>**** <hi>Sir</hi> William Scawen</item>
+                  <item>**** <hi>Sir</hi> Clowſly Shovell</item>
+                  <item>**** John Smith <hi>Eſq;</hi> Beauford <hi>Buildings</hi>
+                  </item>
+                  <item>**** Hugh Squier <hi>Eſq;</hi>
+                  </item>
+                  <item>**** Richard Symes <hi>Eſq;</hi>
+                  </item>
+                  <item>**** Anthony Sturt <hi>Eſq;</hi>
+                  </item>
+                  <item>**** Stephen Seignoret <hi>Eſq;</hi>
+                  </item>
+                  <item>**** M<hi rend="sup">r</hi> Francis Stratford</item>
+                  <item>**** M<hi rend="sup">r</hi> John Shipman</item>
+                  <item>**** M<hi rend="sup">r</hi> Thomas Scawen</item>
+                  <item>**** M<hi rend="sup">r</hi> John Soame</item>
+                  <item>**** M<hi rend="sup">r</hi> Henry Spencer</item>
+                  <item>**** M<hi rend="sup">r</hi> Humphrey South <hi>Sen.</hi>
+                  </item>
+                  <item>**** M<hi rend="sup">r</hi> Edward Sargeant</item>
+                  <item>**** M<hi rend="sup">r</hi> William Sheppard</item>
+                  <item>*** <hi>Sir</hi> Jeremy Sambrook</item>
+                  <item>*** Robert Sayer <hi>Eſq;</hi>
+                  </item>
+                  <item>*** Richard Sterne <hi>Eſq;</hi>
+                  </item>
+                  <item>*** M<hi rend="sup">r</hi> Francis Salvador</item>
+                  <item>*** M<hi rend="sup">r</hi> Botrie Sedgwick</item>
+                  <item>** Brigadier William Selwyn <hi>Eſq;</hi>
+                  </item>
+                  <item>** <hi>Sir</hi> John Sherard <hi>Bar.</hi>
+                  </item>
+                  <item>** M<hi rend="sup">r</hi> Henry Strode</item>
+                  <item>** M<hi rend="sup">r</hi> James Smyth</item>
+                  <item>** M<hi rend="sup">r</hi> Gabriell Smyth</item>
+                  <item>** M<hi rend="sup">r</hi> Iacob Sawbridge</item>
+                  <item>** M<hi rend="sup">r</hi> John Schoppens</item>
+                  <item>** M<hi rend="sup">r</hi> Nathanael Shepard</item>
+                  <item>** M<hi rend="sup">r</hi> Chriſtopher Spicer</item>
+                  <item>* <hi>The Right Honourable,</hi> John <hi>Lord</hi> Somers, <hi>Baron of</hi> Eveſham, <hi>Lord High-Chancellor of</hi> England.</item>
+                  <item>* <hi>Sir</hi> Edward Smyth <hi>Bar.</hi>
+                  </item>
+                  <item>* <hi>Sir</hi> Edward Selwyn</item>
+                  <item>* <hi>The Lady</hi> Margaret Sawyer</item>
+                  <item>* Richard Seys <hi>Eſq;</hi>
+                  </item>
+                  <item>* Edward Sheldon <hi>Eſq;</hi>
+                  </item>
+                  <item>* Francis Stonehouſe <hi>Eſq;</hi>
+                  </item>
+                  <item>* Hans Sloane <hi>M. D.</hi>
+                  </item>
+                  <item>* Frederic Slare <hi>M. D.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Joſeph Sabbarton</item>
+                  <item>* M<hi rend="sup">r</hi> Richard Savill</item>
+                  <item>* M<hi rend="sup">r</hi> Ferrand Spence</item>
+                  <item>* M<hi rend="sup">r</hi> Jonas Shiſh</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Sutton</item>
+                  <item>* M<hi rend="sup">r</hi> John Spurrell</item>
+                  <item>* M<hi rend="sup">r</hi> Richard Smith</item>
+                  <item>* M<hi rend="sup">r</hi> Henry Soames</item>
+                  <item>* M<hi rend="sup">r</hi> William Smith</item>
+                  <item>* M<hi rend="sup">r</hi> Joſeph Shepherd</item>
+                  <item>* M<hi rend="sup">r</hi> Robert Silk</item>
+                  <item>* M<hi rend="sup">r</hi> Daniel Small</item>
+                  <item>* M<hi rend="sup">r</hi> Nicholas Sanford</item>
+                  <item>* M<hi rend="sup">rs</hi> Elizabeth Scott</item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Sheafe</item>
+                  <item>* M<hi rend="sup">r</hi> John Strange</item>
+                  <item>* M<hi rend="sup">r</hi> Joſeph Scriven</item>
+                  <item>* M<hi rend="sup">rs</hi> Mary Sambrooke <hi>Sen.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">rs</hi> HannahSambrooke, <hi>Se.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">rs</hi> Katherin Salisbury</item>
+                  <item>* M<hi rend="sup">r</hi> Richard Smith</item>
+                  <item>* M<hi rend="sup">r</hi> John Smith</item>
+                  <item>* M<hi rend="sup">rs</hi> Sarah Smith</item>
+                  <item>* M<hi rend="sup">rs</hi> Jaquette Stample</item>
+                  <item>* M<hi rend="sup">r</hi> Humphrey South <hi>Jun.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Benjamin Scott</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Smith</item>
+                  <item>* M<hi rend="sup">r</hi> John Scott</item>
+                  <item>* M<hi rend="sup">rs</hi> Sarah Salwey</item>
+                  <item>* M<hi rend="sup">r</hi> Peter Sergeant</item>
+                  <item>* M<hi rend="sup">rs</hi> Alice Spencer</item>
+                  <item>* M<hi rend="sup">r</hi> Edward Shaller</item>
+                  <item>* M<hi rend="sup">r</hi> Robert Stamper</item>
+                  <item>* M<hi rend="sup">r</hi> John Sherman</item>
+                  <item>* M<hi rend="sup">rs</hi> Dorothy Smith</item>
+                  <item>* M<hi rend="sup">r</hi> Ralph Shaw</item>
+                  <item>* M<hi rend="sup">r</hi> Richard Savage</item>
+                  <item>* M<hi rend="sup">r</hi> Robert Scawen</item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Skinner</item>
+                  <item>* M<hi rend="sup">r</hi> Daniel Short</item>
+                  <item>* M<hi rend="sup">r</hi> Henry Sykes</item>
+                  <item>* M<hi rend="sup">r</hi> Francis Smartfoot</item>
+                  <item>* M<hi rend="sup">r</hi> John Soame</item>
+                  <item>* M<hi rend="sup">r</hi> George South</item>
+                  <item>* M<hi rend="sup">rs</hi> Elizabeth South</item>
+                  <item>* M<hi rend="sup">r</hi> John Stonier</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Shakle</item>
+                  <item>* M<hi rend="sup">rs</hi> Mary Stephens</item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Stanier</item>
+                  <item>* M<hi rend="sup">r</hi> Jeremiah Stokes</item>
+                  <item>* M<hi rend="sup">r</hi> Giorgio Thomas Smit</item>
+                  <item>* M<hi rend="sup">r</hi> Peter Southey <hi>in Truſt</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> John Stafford</item>
+                  <item>* M<hi rend="sup">rs</hi> Sarah Sedgwick <hi>Widow</hi>
+                  </item>
+                  <item>
+                     <hi>Dame</hi> Jane Smith</item>
+                  <item>Philip Savage <hi>Eſq;</hi>
+                  </item>
+                  <item>Peter Sadler <hi>Eſq;</hi>
+                  </item>
+                  <item>
+                     <hi>Capt.</hi> David de Saintipo<g ref="char:EOLhyphen"/>litte</item>
+                  <item>M<hi rend="sup">r</hi> William Stoneſtreet <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Raymond De Smeth</item>
+                  <item>M<hi rend="sup">r</hi> John Shower</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Shayle</item>
+                  <item>M<hi rend="sup">r</hi> William Stoneſtreet</item>
+                  <item>M<hi rend="sup">rs</hi> Jane Smith</item>
+                  <item>M<hi rend="sup">r</hi> Daniel Scott</item>
+                  <item>M<hi rend="sup">r</hi> John Strudwick <hi>dec.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Thomas Sommers</item>
+                  <item>M<hi rend="sup">r</hi> Edward Sea</item>
+                  <item>M<hi rend="sup">rs</hi> Suſan Sands</item>
+                  <item>M<hi rend="sup">r</hi> James Skeets</item>
+                  <item>M<hi rend="sup">r</hi> William Sherwill</item>
+                  <item>M<hi rend="sup">rs</hi> Sarah Sedgwick</item>
+                  <item>The Silk Throwers Com<g ref="char:EOLhyphen"/>pany</item>
+                  <item>M<hi rend="sup">r</hi> Edward Stubber</item>
+                  <item>M<hi rend="sup">r</hi> John Slodden</item>
+                  <item>M<hi rend="sup">r</hi> William Salsbury</item>
+                  <item>M<hi rend="sup">r</hi> John Steventon</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Scull</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Symmonds</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Smith</item>
+                  <item>M<hi rend="sup">r</hi> Aaron Smith</item>
+                  <item>M<hi rend="sup">rs</hi> Anne Shewen</item>
+                  <item>M<hi rend="sup">r</hi> Nicholas Skinner</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Shephard <hi>dec.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Robert Swinock</item>
+                  <item>M<hi rend="sup">rs</hi> Katherin Scotte</item>
+                  <item>M<hi rend="sup">r</hi> John Smith</item>
+                  <item>M<hi rend="sup">r</hi> Edward Stanton</item>
+                  <item>M<hi rend="sup">r</hi> Benjamin Sheppard</item>
+                  <item>M<hi rend="sup">r</hi> Richard Smith</item>
+                  <item>M<hi rend="sup">r</hi> Antonio Silveira</item>
+                  <item>M<hi rend="sup">r</hi> Benjamin Sabbarton</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Southwell</item>
+                  <item>M<hi rend="sup">r</hi> Robert Seale</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Steel</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Stewart <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Alexander Saſſerie</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Stancliffe</item>
+                  <item>M<hi rend="sup">r</hi> Henry Seager</item>
+                  <item>M<hi rend="sup">r</hi> Goſewinnus Smith</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Sherwill</item>
+                  <item>M<hi rend="sup">r</hi> William Scrimſhire <hi>Jun</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> John Stokes</item>
+                  <item>M<hi rend="sup">r</hi> Iſaac Searle <hi>Als.</hi> Savery</item>
+                  <item>M<hi rend="sup">r</hi> Joſhua Sharpe</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Shepard</item>
+                  <item>M<hi rend="sup">rs</hi> Catherine Stewkeley</item>
+                  <item>M<hi rend="sup">r</hi> John Savage</item>
+                  <item>M<hi rend="sup">r</hi> Paul Sindry</item>
+                  <item>M<hi rend="sup">r</hi> George Smith</item>
+                  <item>M<hi rend="sup">r</hi> Nicolaus Staphorſt</item>
+                  <item>M<hi rend="sup">r</hi> George Sitwell</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Sykes</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Speed <hi>in Truſt</hi> Ditto <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Thomas Serocold</item>
+                  <item>John Sanſom <hi>Eſq;</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> John Stevens</item>
+                  <item>M<hi rend="sup">r</hi> Joſhua Shepheard</item>
+                  <item>M<hi rend="sup">r</hi> Bernard Smith</item>
+                  <item>M<hi rend="sup">rs</hi> Ann Straughen</item>
+                  <item>M<hi rend="sup">r</hi> Wolfgang de Schmittau</item>
+                  <item>M<hi rend="sup">rs</hi> Margaret Saunders</item>
+                  <item>M<hi rend="sup">r</hi> George Smith <hi>dec.</hi>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Anne Spire <hi>dec.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Iacob Gedeon De See<g ref="char:EOLhyphen"/>gueville</item>
+                  <item>M<hi rend="sup">r</hi> Robie Sherwin</item>
+                  <item>M<hi rend="sup">rs</hi> Ann Shadwell</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Stevens</item>
+                  <item>M<hi rend="sup">r</hi> Henry Sampſon</item>
+                  <item>M<hi rend="sup">r</hi> Joſhua Smith</item>
+                  <item>M<hi rend="sup">rs</hi> Joyce Sayer</item>
+                  <item>M<hi rend="sup">r</hi> John Philip Soyer</item>
+                  <item>M<hi rend="sup">rs</hi> Judith Sprignell</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Spurrier</item>
+                  <item>M<hi rend="sup">r</hi> Francis Sitwell</item>
+                  <item>M<hi rend="sup">r</hi> John Salmon</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Sandford</item>
+                  <item>M<hi rend="sup">r</hi> William Smithies</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Seys</item>
+                  <item>M<hi rend="sup">r</hi> Vincent Sheppard</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Stewart <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Henry Stevens</item>
+                  <item>M<hi rend="sup">r</hi> Peter Sterry</item>
+                  <item>M<hi rend="sup">r</hi> Randoll Smyth</item>
+                  <item>M<hi rend="sup">r</hi> Edward Sanderſon</item>
+                  <item>M<hi rend="sup">r</hi> Michael Savary <hi>Jun</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Nathaniel Symonds</item>
+                  <item>M<hi rend="sup">r</hi> John Sewell</item>
+                  <item>M<hi rend="sup">r</hi> Benjamin Shute</item>
+                  <item>M<hi rend="sup">rs</hi> Jane Spicer</item>
+               </list>
+               <list>
+                  <head>T</head>
+                  <item>**** Nathaniel Tench <hi>Eſq;</hi>
+                  </item>
+                  <item>**** William Tempeſt <hi>Eſq;</hi>
+                  </item>
+                  <item>**** M<hi rend="sup">r</hi> John Taylor</item>
+                  <item>**** M<hi rend="sup">r</hi> Abraham Tillard</item>
+                  <item>**** M<hi rend="sup">r</hi> John Turner</item>
+                  <item>*** <hi>The Right Honourable Sir</hi> John Trenchard <hi>Deceaſed</hi>
+                  </item>
+                  <item>*** Thomas Taylor <hi>Eſq;</hi>
+                  </item>
+                  <item>*** M<hi rend="sup">r</hi> John Trymmer</item>
+                  <item>** M<hi rend="sup">r</hi> Charles Thorold</item>
+                  <item>** M<hi rend="sup">rs</hi> Ann Thorold</item>
+                  <item>* <hi>The Lady</hi> Philippa Trench<g ref="char:EOLhyphen"/>ard</item>
+                  <item>* Edward Tyſon <hi>M. D.</hi>
+                  </item>
+                  <item>* Fiſher Tench <hi>Eſq;</hi>
+                  </item>
+                  <item>* Francis Tyſſen <hi>Eſq;</hi>
+                  </item>
+                  <item>* Aſhburnham Toll <hi>Eſq;</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Richard Taylor</item>
+                  <item>* M<hi rend="sup">r</hi> George Turvile <hi>in Truſt</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> John Trubey</item>
+                  <item>* M<hi rend="sup">r</hi> Benjamin Tomkins</item>
+                  <item>* M<hi rend="sup">r</hi> John Travers</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Theyer</item>
+                  <item>* M<hi rend="sup">r</hi> Daniel Taylor <hi>Sen.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">rs</hi> Martha Thorold</item>
+                  <item>* M<hi rend="sup">rs</hi> Elizabeth Turton</item>
+                  <item>* M<hi rend="sup">r</hi> Henry Traveis <hi>Sen.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Iacob Tonſon</item>
+                  <item>* M<hi rend="sup">r</hi> Charles Torriano</item>
+                  <item>* M<hi rend="sup">rs</hi> Mary Tothall</item>
+                  <item>* M<hi rend="sup">r</hi> Peter Theobald</item>
+                  <item>* M<hi rend="sup">r</hi> James Tutt</item>
+                  <item>* M<hi rend="sup">r</hi> Chriſtopher Tilſon</item>
+                  <item>* M<hi rend="sup">r</hi> William Thomas</item>
+                  <item>* M<hi rend="sup">rs</hi> Ann Thomas</item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Twinn</item>
+                  <item>* M<hi rend="sup">r</hi> John Thorold</item>
+                  <item>* M<hi rend="sup">r</hi> John Townſend <hi>Sen.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> John Taylour</item>
+                  <item>* M<hi rend="sup">r</hi> Joſeph Tomlins <hi>a Minor</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Tompion</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Tanner</item>
+                  <item>* M<hi rend="sup">r</hi> Nicholas Tooke</item>
+                  <item>* M<hi rend="sup">r</hi> George Turvile</item>
+                  <item>* M<hi rend="sup">r</hi> Nicholas Trevanyon</item>
+                  <item>* M<hi rend="sup">r</hi> John Trollope</item>
+                  <item>* M<hi rend="sup">r</hi> George Treby <hi>a Minor</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Henry Tate</item>
+                  <item>* M<hi rend="sup">r</hi> William Trymmer</item>
+                  <item>Benjamin Timewel <hi>Eſq;</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> John Towers</item>
+                  <item>M<hi rend="sup">r</hi> Jacob Turner</item>
+                  <item>M<hi rend="sup">r</hi> Richard Turner</item>
+                  <item>M<hi rend="sup">r</hi> John Tompſon</item>
+                  <item>M<hi rend="sup">r</hi> Richard Turner</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Towle</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Tompſon</item>
+                  <item>M<hi rend="sup">r</hi> John Tomkins</item>
+                  <item>M<hi rend="sup">r</hi> Benjamin Tomlinſon</item>
+                  <item>M<hi rend="sup">r</hi> George Tollet</item>
+                  <item>M<hi rend="sup">r</hi> Godfrey Taylor</item>
+                  <item>M<hi rend="sup">r</hi> Nathanael Turner</item>
+                  <item>M<hi rend="sup">r</hi> John Turner <hi>Jun.</hi>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Mary Tucker</item>
+                  <item>M<hi rend="sup">r</hi> Abraham Tilghman</item>
+                  <item>M<hi rend="sup">r</hi> John Thornton</item>
+                  <item>M<hi rend="sup">r</hi> William Thorold</item>
+                  <item>M<hi rend="sup">rs</hi> Prudence Thorold</item>
+                  <item>M<hi rend="sup">r</hi> William Thomas</item>
+                  <item>M<hi rend="sup">r</hi> John Tomkins</item>
+                  <item>M<hi rend="sup">r</hi> John Tomkins</item>
+                  <item>M<hi rend="sup">r</hi> John Toutin</item>
+                  <item>M<hi rend="sup">r</hi> Daniel Taylor <hi>Jun.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Edward Turner</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Trevor</item>
+                  <item>M<hi rend="sup">r</hi> Edmond Taſſell</item>
+                  <item>M<hi rend="sup">r</hi> Richard Turner, <hi>in Truſt</hi>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Sarah Towers</item>
+                  <item>M<hi rend="sup">r</hi> William Thomas</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Theed</item>
+                  <item>M<hi rend="sup">r</hi> Aaron Teſtas</item>
+                  <item>M<hi rend="sup">r</hi> Iſaac Tanqueray</item>
+                  <item>M<hi rend="sup">r</hi> Leonard Towne</item>
+                  <item>M<hi rend="sup">r</hi> Jonathan Tabor</item>
+                  <item>M<hi rend="sup">r</hi> Edward Terry</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Tomlins</item>
+                  <item>M<hi rend="sup">r</hi> Robert Trail</item>
+                  <item>M<hi rend="sup">r</hi> Edward Theedam</item>
+                  <item>M<hi rend="sup">r</hi> Benjamin Thody</item>
+                  <item>M<hi rend="sup">r</hi> John Thuret</item>
+                  <item>M<hi rend="sup">r</hi> Stephen Du Thoit <hi>dec.</hi>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Margaret Tuckfield</item>
+                  <item>M<hi rend="sup">rs</hi> Ann Tipping</item>
+                  <item>M<hi rend="sup">r</hi> Ralph Trumbull</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Tucker</item>
+                  <item>
+                     <hi>Capt.</hi> Gilbert Talbot</item>
+                  <item>M<hi rend="sup">r</hi> Henry to Buren</item>
+                  <item>M<hi rend="sup">rs</hi> Jane Tiſdale</item>
+                  <item>M<hi rend="sup">r</hi> Edward Townſend</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Thomas</item>
+                  <item>M<hi rend="sup">r</hi> Randolph Tooke</item>
+               </list>
+               <list>
+                  <head>V.</head>
+                  <item>**** Conſtantine Vernatti <hi>Eſq;</hi>
+                  </item>
+                  <item>**** M<hi rend="sup">r</hi> Peter Vanſittart</item>
+                  <item>*** M<hi rend="sup">r</hi> John Vandermandre</item>
+                  <item>** M<hi rend="sup">r</hi> Thomas Uvedale</item>
+                  <item>* <hi>His Excellency</hi> John Peter Vanden Brande van Cle<g ref="char:EOLhyphen"/>verskirke, <hi>Eſq;</hi>
+                  </item>
+                  <item>* <hi>Sir</hi> Peter Vandeput</item>
+                  <item>* Richard Uphill, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Thomas Vernon, <hi>Eſq;</hi>
+                  </item>
+                  <item>* John Vandenbemde, <hi>Eſq;</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Henry Uilenbroek</item>
+                  <item>* M<hi rend="sup">r</hi> Jaſpar Vanden Buſh</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Viroot</item>
+                  <item>* M<hi rend="sup">r</hi> Pieter Vandermerſch</item>
+                  <item>* M<hi rend="sup">r</hi> John Voyſey</item>
+                  <item>* M<hi rend="sup">r</hi> Stephen Upman</item>
+                  <pb n="8" facs="tcp:37497:5"/>
+                  <item>
+                     <hi>Sir</hi> John Verney, <hi>Bar.</hi>
+                  </item>
+                  <item>Francis Upton <hi>M. D. and</hi> M<hi rend="sup">r</hi> Joſeph Wildigos</item>
+                  <item>Henry Vincent, <hi>Eſq;</hi>
+                  </item>
+                  <item>Gerardt Van Roſen<g ref="char:EOLhyphen"/>ſtrauch, <hi>Eſq;</hi>
+                  </item>
+                  <item>James Vernon, <hi>Eſq;</hi>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Alida Vandermarſh</item>
+                  <item>M<hi rend="sup">r</hi> Edward Underhill</item>
+                  <item>M<hi rend="sup">r</hi> John Upton</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Varnam</item>
+                  <item>M<hi rend="sup">r</hi> Stephen Venables</item>
+                  <item>M<hi rend="sup">r</hi> John Underhill</item>
+                  <item>M<hi rend="sup">r</hi> Charles de Vignoles</item>
+                  <item>M<hi rend="sup">rs</hi> Suſanna de Vernatty</item>
+                  <item>M<hi rend="sup">r</hi> John Vince</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Vander Poeſt <hi>deceaſed</hi>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Anne de Veil</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Upcot</item>
+                  <item>M<hi rend="sup">r</hi> Paul Vaillant</item>
+               </list>
+               <list>
+                  <head>W</head>
+                  <item>**** <hi>The Honorable Lady</hi> Jane Wharton</item>
+                  <item>**** Godfrey Webſter, <hi>Eſq;</hi>
+                  </item>
+                  <item>**** Charles Williams, <hi>Eſq;</hi>
+                  </item>
+                  <item>**** M<hi rend="sup">r</hi> John Ward</item>
+                  <item>**** M<hi rend="sup">r</hi> William Walker</item>
+                  <item>**** M<hi rend="sup">r</hi> Maximilian Weſtern</item>
+                  <item>**** M<hi rend="sup">rs</hi> Ann Weſtern</item>
+                  <item>*** <hi>Sir</hi> John Woolfe</item>
+                  <item>** Peter Whitcomb, <hi>Eſq;</hi>
+                  </item>
+                  <item>** M<hi rend="sup">r</hi> Richard White</item>
+                  <item>** M<hi rend="sup">r</hi> Robert Weſtern</item>
+                  <item>** M<hi rend="sup">r</hi> Thomas Wright</item>
+                  <item>* <hi>Sir</hi> Edward Wills</item>
+                  <item>* Richard Woodward, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Thomas Winchurſt, <hi>Eſq;</hi>
+                  </item>
+                  <item>* Thomas Weſtern, <hi>Eſq;</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> William Willys</item>
+                  <item>* M<hi rend="sup">r</hi> Peter Walter <hi>in Truſt</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> John Warner</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas White</item>
+                  <item>* M<hi rend="sup">r</hi> Francis Woolley</item>
+                  <item>* M<hi rend="sup">r</hi> Iſrael Wilkes</item>
+                  <item>* M<hi rend="sup">r</hi> Joſeph Wilſon</item>
+                  <item>* Simon Welman, <hi>M. D.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Mark Wynn</item>
+                  <item>* M<hi rend="sup">r</hi> Benjamin Whichcote</item>
+                  <item>* M<hi rend="sup">r</hi> John Wade</item>
+                  <item>* M<hi rend="sup">r</hi> Edward Whitehall</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Waſey</item>
+                  <item>* M<hi rend="sup">r</hi> Joſeph Woolfe</item>
+                  <item>* M<hi rend="sup">r</hi> John Wyley</item>
+                  <item>* M<hi rend="sup">r</hi> John Woolfe</item>
+                  <item>* M<hi rend="sup">r</hi> John Wright</item>
+                  <item>* M<hi rend="sup">r</hi> James Webb</item>
+                  <item>* M<hi rend="sup">r</hi> Edward Wade</item>
+                  <item>* M<hi rend="sup">r</hi> John Wallis</item>
+                  <item>* M<hi rend="sup">r</hi> Edward Wivell</item>
+                  <item>* M<hi rend="sup">r</hi> Wight Woolley</item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Waldo</item>
+                  <item>* M<hi rend="sup">r</hi> Henry Wolſtenholme</item>
+                  <item>* M<hi rend="sup">r</hi> Francis Willett</item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Woodcock</item>
+                  <item>* M<hi rend="sup">r</hi> Joſeph Wilſon</item>
+                  <item>* M<hi rend="sup">r</hi> Matthew Wright</item>
+                  <item>* M<hi rend="sup">r</hi> Joſias Wordſworth</item>
+                  <item>* M<hi rend="sup">r</hi> John Wade, <hi>Senior</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Watts, <hi>and Sir</hi> James Bateman</item>
+                  <item>* M<hi rend="sup">r</hi> Benjamin Wyche</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Walker</item>
+                  <item>* M<hi rend="sup">r</hi> Rice Watkins</item>
+                  <item>* M<hi rend="sup">r</hi> Joſeph Waldo</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Woodcocke</item>
+                  <item>* M<hi rend="sup">r</hi> Baſill Wood <hi>a Minor</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Samuel Wilmer</item>
+                  <item>* M<hi rend="sup">r</hi> Bedford Whiting</item>
+                  <item>* M<hi rend="sup">r</hi> Thomas Wood <hi>a Min.</hi>
+                  </item>
+                  <item>* M<hi rend="sup">rs</hi> Mary Wright</item>
+                  <item>* M<hi rend="sup">rs</hi> Carolina Wood</item>
+                  <item>* M<hi rend="sup">r</hi> Richard Wallis</item>
+                  <item>* M<hi rend="sup">r</hi> Edward Weſcombe</item>
+                  <item>
+                     <hi>Sir</hi> John Werden</item>
+                  <item>
+                     <hi>Sir</hi> Edward Wood</item>
+                  <item>
+                     <hi>Sir</hi> Cyrill Wich</item>
+                  <item>Charles Williams, <hi>Eſq; in Truſt</hi>
+                  </item>
+                  <item>Richard Willis, <hi>D. D.</hi>
+                  </item>
+                  <item>John Wright, <hi>M. D.</hi>
+                  </item>
+                  <item>George Walls, <hi>D. D.</hi>
+                  </item>
+                  <item>Prayſe Watſon, <hi>M. D.</hi>
+                  </item>
+                  <item>Benjamin Wrench, <hi>M. D.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Henry Wheatley</item>
+                  <item>M<hi rend="sup">r</hi> William Wilkin</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Webſter</item>
+                  <item>M<hi rend="sup">r</hi> James Walker</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Whitfeld</item>
+                  <item>M<hi rend="sup">r</hi> Edward Watty</item>
+                  <item>M<hi rend="sup">r</hi> William Wright</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Wilſe</item>
+                  <item>M<hi rend="sup">r</hi> John Waters</item>
+                  <item>M<hi rend="sup">r</hi> William Woolley, <hi>Sen.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Thomas Weſt, <hi>deceaſ.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> Daniel Wiſe</item>
+                  <item>M<hi rend="sup">r</hi> William Whitaker</item>
+                  <item>M<hi rend="sup">r</hi> John Wynde</item>
+                  <item>M<hi rend="sup">r</hi> Michael Watts</item>
+                  <item>M<hi rend="sup">r</hi> Richard Winch</item>
+                  <item>M<hi rend="sup">r</hi> Charles Willett</item>
+                  <item>M<hi rend="sup">r</hi> John Wilmer</item>
+                  <item>M<hi rend="sup">r</hi> Henry Wood</item>
+                  <item>M<hi rend="sup">r</hi> William Whitehill</item>
+                  <item>M<hi rend="sup">r</hi> William Woollaſton</item>
+                  <item>M<hi rend="sup">r</hi> Robert Wilkins</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Watſon</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Whitehill</item>
+                  <item>M<hi rend="sup">r</hi> John Wyburd</item>
+                  <item>M<hi rend="sup">rs</hi> Margery Walkeley</item>
+                  <item>M<hi rend="sup">r</hi> Thomas White, <hi>dec.</hi>
+                  </item>
+                  <item>M<hi rend="sup">rs</hi> Anna Wingfield</item>
+                  <item>M<hi rend="sup">rs</hi> Chriſtiana Wills</item>
+                  <item>M<hi rend="sup">r</hi> John Whitehill</item>
+                  <item>M<hi rend="sup">r</hi> Francis Wright</item>
+                  <item>M<hi rend="sup">r</hi> Jonathan Wrench</item>
+                  <item>M<hi rend="sup">rs</hi> Rachel Wyndham</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Watſon</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Williams</item>
+                  <item>M<hi rend="sup">r</hi> John Wilmer</item>
+                  <item>M<hi rend="sup">rs</hi> Mary Withers</item>
+                  <item>M<hi rend="sup">r</hi> John Worts</item>
+                  <item>M<hi rend="sup">r</hi> Chriſtopher Whichcot</item>
+                  <item>Mons<hi rend="sup">r.</hi>Francis-Mary White</item>
+                  <item>M<hi rend="sup">r</hi> James Wallis</item>
+                  <item>M<hi rend="sup">r</hi> John Warner</item>
+                  <item>M<hi rend="sup">rs</hi> Frances Webb</item>
+                  <item>M<hi rend="sup">r</hi> Anthony Wallinger</item>
+                  <item>M<hi rend="sup">r</hi> William Weſt</item>
+                  <item>M<hi rend="sup">r</hi> Charles Weſton</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth Webb</item>
+                  <item>M<hi rend="sup">r</hi> Stanly Weſt</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Webb</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Walker</item>
+                  <item>M<hi rend="sup">r</hi> Richard Warner</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Wildigos</item>
+                  <item>M<hi rend="sup">r</hi> Caleb Woods</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Wyche</item>
+                  <item>M<hi rend="sup">rs</hi> Jane Weſt</item>
+                  <item>M<hi rend="sup">r</hi> Edward Watts</item>
+                  <item>M<hi rend="sup">rs</hi> Sarah Waldo</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Waldron</item>
+                  <item>M<hi rend="sup">r</hi> John Wilde</item>
+                  <item>M<hi rend="sup">r</hi> William Worſter</item>
+                  <item>M<hi rend="sup">r</hi> Robert Waringe</item>
+                  <item>M<hi rend="sup">r</hi> Philip De Werth</item>
+                  <item>M<hi rend="sup">r</hi> James Watſon</item>
+                  <item>M<hi rend="sup">r</hi> Jeffery Wignall</item>
+                  <item>M<hi rend="sup">rs</hi> Phebe Wickins</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Weſtall</item>
+                  <item>M<hi rend="sup">r</hi> Tobijah Winne</item>
+                  <item>M<hi rend="sup">rs</hi> Hannah Waddington</item>
+                  <item>M<hi rend="sup">r</hi> Robert Woodcock</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Walker</item>
+                  <item>M<hi rend="sup">r</hi> Edward Waddington</item>
+                  <item>M<hi rend="sup">r</hi> Reeve Williams</item>
+                  <item>M<hi rend="sup">r</hi> George Wheeler</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Windmills</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Walden</item>
+                  <item>M<hi rend="sup">rs</hi> Sarah Watkins</item>
+                  <item>M<hi rend="sup">r</hi> John Warren</item>
+                  <item>M<hi rend="sup">r</hi> Robert Wintour</item>
+                  <item>M<hi rend="sup">rs</hi> Frances Wiſeman</item>
+                  <item>M<hi rend="sup">r</hi> Peter Walter</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>St.</hi> Nicholas Watts</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Wharton</item>
+                  <item>M<hi rend="sup">r</hi> William Whitmore</item>
+                  <item>M<hi rend="sup">rs</hi> Frances Witherley</item>
+                  <item>M<hi rend="sup">rs</hi> Elizabeth and Jane Whiſton</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Warde</item>
+                  <item>M<hi rend="sup">r</hi> Gabriel Walter</item>
+                  <item>M<hi rend="sup">r</hi> James Weſt</item>
+                  <item>M<hi rend="sup">r</hi> Samuel Weeley</item>
+                  <item>M<hi rend="sup">r</hi> Thomas Wright <hi>Jun.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Y</head>
+                  <item>* <hi>Coll.</hi> Henry Yates</item>
+                  <item>* Robert Yard <hi>Eſq;</hi>
+                  </item>
+                  <item>* M<hi rend="sup">r</hi> Richard Yerbury</item>
+                  <item>M<hi rend="sup">r</hi> William Young</item>
+                  <item>M<hi rend="sup">r</hi> William Young</item>
+                  <item>M<hi rend="sup">r</hi> Joſeph Young</item>
+               </list>
+            </div>
+            <div type="list">
+               <head>A LIST of the NAMES of the preſent Governour, Deputy-Governour, and Court of Directors of the BANK of <hi>ENGLAND.</hi>
+               </head>
+               <p>
+                  <hi>Sir</hi> William Scawen, <hi>K<hi rend="sup">t.</hi>
+                  </hi> Governour. Nathaniel Tench, <hi>Eſq;</hi> Deputy-Governour.</p>
+               <list>
+                  <item>SIR William Aſhhurſt, <hi>Kt.</hi> and <hi>Alderm.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Thomas Abney, <hi>Kt.</hi> and <hi>Alderman</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> James Bateman, <hi>Kt.</hi>
+                  </item>
+                  <item>Brook Bridges, <hi>Eſq; Auditor,</hi>
+                  </item>
+                  <item>Robert Briſtow, <hi>Jun.</hi> Eſq;</item>
+                  <item>
+                     <hi>Mr.</hi> James Denew,</item>
+                  <item>
+                     <hi>Mr.</hi> William Dawſonne,</item>
+                  <item>
+                     <hi>Mr.</hi> Peter Delmè,</item>
+                  <item>
+                     <hi>Mr.</hi> Francis Eyles,</item>
+                  <item>
+                     <hi>Sir</hi> William Gore, <hi>Kt. and Alderman.</hi>
+                  </item>
+                  <item>Peter Gott, <hi>Eſq;</hi>
+                  </item>
+                  <item>
+                     <hi>Mr.</hi> Nathaniel Gould,</item>
+                  <item>
+                     <hi>The Hon. Sir</hi> John Houblon, <hi>Kt. and Ald.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> James Houblon, <hi>Kt. and Alderman.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> William Hedges, <hi>Kt. and Alderman.</hi>
+                  </item>
+                  <item>
+                     <hi>Mr.</hi> Abraham Houblon,</item>
+                  <item>
+                     <hi>Mr.</hi> Gilbert Heathcote,</item>
+                  <item>
+                     <hi>Sir</hi> Theodore Janſſen, <hi>Kt.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Richard Levett, <hi>Kt. and Alderman.</hi>
+                  </item>
+                  <item>Samuel Lethieullier, <hi>Eſq;</hi>
+                  </item>
+                  <item>
+                     <hi>Mr.</hi> Robert Raworth,</item>
+                  <item>John Smith, <hi>of Beauford Buildings, Eſq;</hi>
+                  </item>
+                  <item>
+                     <hi>Mr.</hi> Francis Stratford,</item>
+                  <item>
+                     <hi>Mr.</hi> John Ward.</item>
+               </list>
+            </div>
+            <div type="regulations">
+               <head>Part of the By-Law concerning ELECTIONS.</head>
+               <p n="1">
+                  <hi>I.</hi> WHereas it hath been found by Experience, That many <g ref="char:V">Ʋ</g>ncertainties and Inconveniencies have hapned, for want of a due and regular Method of Proceeding at General Courts of Election; for Remedy whereof, in time to come,</p>
+               <p n="2">
+                  <hi>II.</hi> It is hereby ordained and appointed, That at every General Court for any Election, every Member qualified to Vote, and being pre<g ref="char:EOLhyphen"/>ſent, ſhall deliver in Writing a Note or Liſt, containing the Name or Names of ſuch Perſon or Perſons (Members of this Corporation) reſp<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctively qualified, according to the Tenor of the Charter, as he thinks fit to ſerve, and execute the Office or Employment for which ſuch Election is to be had or made; And that at every General Election, each Elector ſhall deliver in Writing, only the Name of one Perſon qualified for the Place of Governour, and only the Name of one Perſon qualified for the Place of Deputy-Governour, and no more; And for Directors, a Liſt of the Names of four and twenty Perſons qualified for Directors, and no more, nor leſs: And that in caſe any Perſon ſhall deliver in Writing any more than one Name for the place of Governour, one Name for the place of Deputy-Governour, or a List of any more or leſs than four and twenty Names of Perſons qualified for Directors, the ſame ſhall be reputed and deemed as no Vote, and the ſaid List and all the Names therein, ſhall be totally rejected.</p>
+               <p n="3">
+                  <hi>III.</hi> And that in caſe at any General Court of Election of Directors, any Perſon ſhall in ſuch List inſert the Names of any more than Sixteen of <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hoſe Perſons who were choſen into, and did ſerve the Office of Directors the then laſt preceding Year, the ſame Liſt ſhall in like man<g ref="char:EOLhyphen"/>ner be rejected.</p>
+               <p n="4">
+                  <hi>IV.</hi> And that if in any List for Directors, there ſhall be inſerted the Name, either of the Governour or Deputy-Governour, elected for the enſuing Year, ſuch List ſhall be rejected.</p>
+               <p n="5">
+                  <hi>V.</hi> And that no Note or Liſt ſhall be received for any Election, after the Glaſs is finally Sealed up, according to the Time prefixed for the doing thereof, but ſuch Note or List ſhall be rejected.</p>
+               <p n="6">
+                  <hi>VI.</hi> And that if any Member of this Corporation, ſhall hereafter uſe or procure to be uſed, any indirect Means, to obtain any Vote or Votes for the Election of Himſelf, or any other to be Governour, Deputy-Governour, or Director of this Corporation, and be thereof declared Guilty, at a General Court to be called for that purpoſe, ſuch Perſon ſhall from thenceforth for ever, be incapable of being Elected to, or holding any ſuch Office or Place.</p>
+            </div>
+            <argument>
+               <p>☞ <hi>Note,</hi> That where Two or more Perſons of the ſame Name, are Qualified to be choſen Governour, Deputy-Governour, or Directors, their Additions are inſerted for Diſtinction; which Additions, all Perſons who give in their Votes, are deſired to inſert in their Liſts.</p>
+            </argument>
+         </div>
+      </body>
+   </text>
+</TEI>
